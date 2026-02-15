@@ -1,0 +1,4 @@
+name,id,home,team,pos,fumbles_lost,fumbles_rcv,fumbles_tot,fumbles_trcv,fumbles_yds,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+M.Cassel,00-0023662,yes,KC,QB,1,0,1,0,-2,30,20,1,1,0,0,218,7,15,0,0,0,0,35
+B.Quinn,00-0025409,yes,KC,,0,0,1,0,0,4,2,1,0,0,0,1,2,12,0,0,0,0,18
+C.Palmer,00-0021429,no,OAK,QB,,,,,,28,14,1,2,0,0,209,1,-1,0,0,0,0,-1

@@ -1,0 +1,173 @@
+Dog breed,Category,Popularity 2008,Popularity 2009,Popularity 2011,Popularity 2013,Popularity 2014,Intelligence,Intelligence category,Command Repetition,First Command Response Rate,Life Expectancy,Ailments Summary,No. of Ailments,Ailments Detail,Cutenss,Total Cost,Average Purchae Price,Price Bracket,Food Cost per Week,Lifetime Food Cost,Lifetime Other Cost,Other Cost per Week,Grooming Required,Suitability for Children,Size,Weight in kg,Weight in lbs,Shoulder Height in cm,Shoulder Height in inch
+Affenpinscher,toy,131,133,139,143,138,37,Above average,15-25,>70,11.42,none,0,none,4,18040,510,budget,6,3643,13686,1198,week,medium,small,,,26,10
+Afghan Hound,hound,93,91,88,95,95,80,Lowest,80-100,<25,11.92,none,0,none,2,23694,890,midprice,13,8319,14285,1198,day,high,large,25,55,66,26
+Airedale Terrier,terrier,58,59,55,56,56,29,Above average,15-25,>70,11.45,hip problems,1,hip dysplasia,4,,733,midprice,,,13722,1198,,,medium,,,58,23
+Akita,working,51,50,47,45,45,54,Average,25-40,>50,10.16,hip problems,1,hip dysplasia,2,20668,1202,midprice,13,7091,12176,1198,week,low,large,,,66,26
+Alaskan Malamute,working,59,58,58,57,53,50,Average,25-40,>50,10.67,"hip problems, dwarfism",2,"Hip dysplasia, Osteochondrodysplasia skeletal dwarfism",3,21643,1210,midprice,13,7447,12787,1198,day,medium,large,36,80,61,24
+American English Coonhound,hound,,,33,146,150,,,,,,,,,2,,283,budget,,,,1198,,,large,,,62,25
+American Eskimo Dog,nonsporting,108,118,116,110,114,,,,,,none,0,none,3,,560,budget,,,,1198,,,small,,,36,14
+American Foxhound,hound,157,162,173,176,174,46,Average,25-40,>50,,,,,3,,757,midprice,,,,1198,,,medium,,,58,23
+American Staffordshire Terrier,terrier,71,70,72,76,82,34,Above average,15-25,>70,,skin problems,1,Demodicosis/ Demodectic mange,1,,1043,midprice,,,,1198,,,medium,,,46,18
+American Water Spaniel,sporting,135,139,157,144,154,44,Average,25-40,>50,,none,0,none,3,,730,midprice,,,,1198,,,medium,16,35,42,17
+Anatolian Shepherd Dog,working,109,115,111,93,92,,,,,10.75,,,,3,,685,budget,13,7502,12883,1198,week,medium,large,52,115,71,28
+Australian Cattle Dog,herding,68,67,60,58,54,10,Brightest,<5,>95,11.67,hip problems,1,hip dysplasia,2,20068,530,budget,9,5352,13986,1198,week,low,medium,,,47,19
+Australian Shepherd,herding,29,28,24,20,18,42,Average,25-40,>50,12.28,"deafness, hip problems",2,"deafness, hip dysplasia",3,21114,565,budget,9,5632,14717,1198,week,medium,medium,,,52,21
+Australian Terrier,terrier,112,124,121,122,133,34,Above average,15-25,>70,11.05,none,0,none,4,17608,640,budget,6,3525,13243,1198,week,medium,small,,,27,11
+Basenji,hound,86,88,93,85,84,79,Lowest,80-100,<25,13.58,"kidney, eye problems, anaemia",3,"Fanconi syndrome, Persistent pupillary membranes (PPM), Pyruvate kinase (PK) deficiency",3,21747,940,midprice,6,4333,16275,1198,week,medium,medium,10,23,42,17
+Basset Hound,hound,33,34,41,41,41,71,Lowest,80-100,<25,11.43,"blood, skin disorders",2,"Platelet dysfunction (thrombocytopathia, Basset hound thrombopathia), seborrhea",5,18034,490,budget,6,3647,13698,1198,week,high,small,,,36,14
+Beagle,hound,5,5,3,4,5,73,Lowest,80-100,<25,12.3,heart problems,1,Pulmonic stenosis,5,19153,288,budget,6,3924,14741,1198,day,high,small,,,36,14
+Bearded Collie,herding,83,116,112,112,115,34,Above average,15-25,>70,12.77,none,0,none,5,,675,budget,9,5857,15304,1198,day,high,medium,,,53,21
+Beauceron,herding,138,148,144,152,139,,,,,,,,,2,,967,midprice,,,,1198,,,large,,,65,26
+Bedlington Terrier,terrier,125,135,134,137,134,40,Average,25-40,>50,13.51,"liver, eye problems",2,"Chronic hepatitis, Retinal dysplasia",2,21760,1058,midprice,6,4310,16191,1198,week,medium,small,9,20,,
+Belgian Malinois,herding,79,81,74,60,59,22,Excellent,5-15,>85,,none,0,none,3,,1080,midprice,9,,,1198,week,high,large,,,61,24
+Belgian Shepherd Dog,herding,115,120,118,119,117,15,Excellent,5-15,>85,,"cataracts + other eye problems, muscular dystrophy",4,"Cataracts, Pannus chronic superficial keratitis, Progressive retinal atrophy, Xlinked muscular dystrophy",3,,1200,midprice,,,,1198,,,large,,,61,24
+Belgian Shepherd Dog (Tervuren),herding,103,109,108,108,106,14,Excellent,5-15,>85,10.6,"epilepsy, eye problems",2,"Idiopathic epilepsy, Pannus chronic superficial keratitis",3,18835,1070,midprice,9,4861,12703,1198,week,high,large,,,61,24
+Bernese Mountain Dog,working,40,39,34,32,31,22,Excellent,5-15,>85,7.56,"meningitis, elbow + hip problems, complex immune disorder",4,"Meningitis, Elbow dysplasia OCD of the elbow, Hip dysplasia, Histiocytosis",4,15856,1320,midprice,13,5276,9060,1198,day,high,large,,,64,25
+Bichon Frise,nonsporting,35,35,39,40,43,45,Average,25-40,>50,12.21,none,0,none,6,19421,693,budget,6,3895,14633,1198,day,high,small,,,27,11
+Black and Tan Coonhound,hound,42,86,109,113,120,44,Average,25-40,>50,,none,0,none,4,,325,budget,,,,1198,,,large,,,64,25
+Black Russian Terrier,working,120,130,128,118,121,,,,,1.83,none,0,none,3,,2833,highend,,,,1198,,,large,,,71,28
+Bloodhound,hound,43,43,48,48,49,75,Lowest,80-100,<25,6.75,"fatal stomach bloat, skin problems",2,"Gastric dilatationvolvulus, Hip dysplasia",5,13608,608,budget,13,4711,8089,1198,week,medium,large,39,85,64,25
+Bluetick Coonhound,hound,,44,136,128,124,,,,,,none,0,none,3,,370,budget,,,,1198,,,large,28,63,61,24
+Border Collie,herding,53,52,45,44,39,1,Brightest,<5,>95,12.52,"eye problems, deafness",2,"Collie eye anomaly, deafness",3,19821,623,budget,6,3994,15004,1198,week,low,medium,,,51,20
+Border Terrier,terrier,80,82,80,81,83,30,Above average,15-25,>70,14,none,0,none,4,22278,833,midprice,6,4467,16778,1198,week,high,small,6,14,,
+Borzoi,hound,94,90,102,99,99,76,Lowest,80-100,<25,9.08,none,0,none,2,15921,675,budget,9,4164,10882,1198,day,medium,large,37,83,71,28
+Boston Terrier,nonsporting,17,19,22,23,23,54,Average,25-40,>50,10.92,breathing problems,1,brachycephalic syndrome,4,17461,690,budget,6,3484,13087,1198,week,high,medium,NA (3 classes),NA (3 classes),,
+Bouvier des Flandres,herding,84,85,83,82,79,29,Above average,15-25,>70,10.34,hip problems,1,hip dysplasia,3,18669,1335,midprice,9,4742,12392,1198,week,high,large,,,65,26
+Boxer,working,6,6,7,7,8,48,Average,25-40,>50,8.81,"eye, nerve, heart problems",4,"Corneal dystrophy, Degenerative myelopathy, Dilated cardiomyopathy, Subaortic stenosis",5,15499,700,midprice,9,4040,10558,1198,week,high,medium,,,59,23
+Boykin Spaniel,sporting,,92,138,121,104,,,,,,,,,3,,531,budget,,,,1198,,,medium,,,41,16
+Briard,herding,122,127,125,127,126,30,Above average,15-25,>70,11.17,hip problems,1,hip dysplasia,4,19359,650,budget,9,5123,13387,1198,day,high,large,,,62,25
+Brittany,sporting,30,30,30,30,27,19,Excellent,5-15,>85,12.92,none,0,none,4,22227,618,budget,9,5925,15484,1198,week,medium,medium,16,35,48,19
+Brussels Griffon,toy,67,72,77,84,89,59,Fair,40-80,>30,12,none,0,none,5,19242,833,midprice,6,3828,14381,1198,week,low,small,4,9,,
+Bull Terrier,terrier,57,57,51,52,52,66,Fair,40-80,>30,10.21,"heart problems, zinc metabolism disorder",2,"lethal acrodermatitis, Mitral valve dysplasia",1,18204,1085,midprice,9,4683,12236,1198,week,medium,medium,27,60,55,22
+Bulldog,nonsporting,8,7,6,5,4,78,Lowest,80-100,<25,6.29,"breathing, hip, heart problems, 'dry eye'",5,"brachycephalic syndrome, Hip dysplasia, Keratoconjunctivitis sicca (KCS) ""dry eye"", Pulmonic stenosis, Ventricular septal defect (VSD)",1,13303,2680,highend,9,2885,7538,1198,week,medium,medium,20,45,,
+Bullmastiff,working,39,42,40,40,44,69,Fair,40-80,>30,7.57,"eye, hip problems",2,"Entropion, Hip dysplasia",4,13724,980,midprice,9,3472,9072,1198,week,high,large,52,115,65,26
+Cairn Terrier,terrier,50,56,59,61,67,35,Above average,15-25,>70,13.84,"lion jaw', heart problems",2,"Craniomandibular osteopathy (""lion jaw""), Mitral valve dysplasia",4,21637,435,budget,6,4416,16586,1198,week,high,small,6,14,25,10
+Canaan Dog,herding,150,156,168,164,170,,,no data,,14.67,none,0,none,3,,2012,highend,9,6728,17581,1198,week,high,medium,20,45,55,22
+Cane Corso,working,,,67,50,47,,,no data,,,,,,1,,1070,midprice,,,,1198,,,large,,,64,25
+Cardigan Welsh Corgi,herding,82,83,81,75,76,26,Excellent,5-15,>85,12.7,none,0,none,4,,828,midprice,,,15220,1198,,,small,14,32,29,12
+Cavalier King Charles Spaniel,toy,25,25,21,18,19,44,Average,25-40,>50,11.29,"heart, spinal problems",2,"Mitral valve dysplasia, Chiarilike malformation (CM) and syringomyelia (SM)",5,18349,1017,midprice,6,3602,13530,1198,week,high,small,7,16,32,13
+Cesky Terrier,terrier,,,106,174,176,,,no data,,8.42,,,,2,,,,9,3862,10091,1198,week,high,small,9,19,29,12
+Chesapeake Bay Retriever,sporting,48,49,46,43,40,27,Above average,15-25,>70,9.48,hip problems,1,hip dysplasia,3,16431,522,budget,9,4348,11361,1198,week,high,large,31,68,60,24
+Chihuahua,toy,12,12,14,22,24,67,Fair,40-80,>30,,knee problems,1,Patellar luxation,6,,588,budget,6,,,1198,week,low,small,2,6,,
+Chinese Crested,toy,54,55,61,68,63,61,Fair,40-80,>30,10.08,,,,2,,538,budget,,,12080,1198,,,small,,,30,12
+Chinese Shar Pei,nonsporting,47,47,50,54,57,51,Average,25-40,>50,,"canine hay fever, skin, eye, hip problems",4,"Atopy, Demodicosis/ Demodectic mange, Entropion, Hip dysplasia",4,,840,midprice,,,,1198,,,medium,24,53,48,19
+Chow Chow,nonsporting,66,63,68,70,68,77,Lowest,80-100,<25,9.01,"eye, hip problems",2,"Entropion, Hip dysplasia",5,15645,515,budget,9,4132,10798,1198,day,medium,medium,,,47,19
+Clumber Spaniel,sporting,117,128,133,131,137,37,Above average,15-25,>70,10,none,0,none,2,17804,1033,midprice,9,4586,11984,1198,week,high,medium,32,70,47,19
+Cocker Spaniel,sporting,21,23,27,29,30,20,Excellent,5-15,>85,,"eye, skin problems",2,"Retinal dysplasia, seborrhea",5,,465,budget,,,,1198,,,small,,,37,15
+Collie,herding,38,38,36,35,35,16,Excellent,5-15,>85,,"eye, skin and muscle disorders",2,"Collie eye anomaly (CEA), Dermatomyositis and ulcerative dermatosis",3,,650,budget,,,,1198,,,large,28,63,61,24
+Curly Coated Retriever,sporting,137,145,154,163,157,41,Average,25-40,>50,10.75,none,0,none,3,,,,13,7502,12883,1198,week,medium,large,,,64,25
+Dachshund,hound,7,8,9,10,11,49,Average,25-40,>50,12.63,"skin, spinal problems",2,"acanthosis nigricans, Intervertebral disk disease",4,19788,423,budget,6,4029,15136,1198,week,low,small,11,24,,
+Dalmatian,nonsporting,77,75,73,64,64,39,Above average,15-25,>70,11.27,"deafness, urinary stones",2,"Deafness, Urolithiasis (stones)",4,19570,695,budget,9,5169,13506,1198,week,high,medium,,,53,21
+Dandie Dinmont Terrier,terrier,146,151,160,168,161,62,Fair,40-80,>30,12.17,none,0,none,5,21291,925,midprice,9,5581,14585,1198,day,high,small,10,21,23,9
+Doberman Pinscher,working,18,15,13,12,14,5,Brightest,<5,>95,10.33,"heart, spine, blood clotting disorders",4,"Dilated cardiomyopathy, Cervical vertebral instability (Wobbler syndrome), Intervertebral disk disease, von Willebrand's disease",2,18107,790,midprice,9,4738,12380,1198,week,medium,large,,,66,26
+English Cocker Spaniel,sporting,70,66,63,62,61,18,Excellent,5-15,>85,11.66,none,0,none,5,18694,800,midprice,6,3720,13974,1198,week,high,medium,14,30,41,16
+English Foxhound,hound,158,164,171,177,177,46,Average,25-40,>50,,none,0,none,3,,,,,,,1198,,,large,,,61,24
+English Setter,sporting,143,94,87,91,87,37,Above average,15-25,>70,11.57,"deafness, hip problems",2,"deafness, hip dysplasia",3,19987,615,budget,9,5306,13866,1198,week,high,large,,,62,25
+English Springer Spaniel,sporting,27,29,29,28,28,13,Excellent,5-15,>85,12.54,"hip, eye, skin problems; enzyme deficiency",4,"Hip dysplasia, Phosphofructokinase (PFK) deficiency, Retinal dysplasia, seborrhea",4,21595,615,budget,9,5751,15028,1198,week,high,medium,20,45,50,20
+English Toy Spaniel,toy,124,129,129,135,132,45,Average,25-40,>50,10.1,none,0,none,5,,925,midprice,,,12104,1198,,,small,5,11,,
+Entlebucher Mountain Dog,herding,,,146,155,147,,,,,,,,,3,,1167,midprice,,,,1198,,,medium,,,47,19
+Field Spaniel,sporting,139,137,141,140,131,34,Above average,15-25,>70,9.9,none,0,none,5,,,,9,4540,11865,1198,day,medium,medium,,,44,18
+Finnish Lapphund,herding,,,104,171,167,,,,,7.33,,,,3,,,,9,3362,8785,1198,day,high,medium,,,47,19
+Finnish Spitz,nonsporting,153,160,167,170,168,43,Average,25-40,>50,11.17,none,0,none,3,,,,9,5123,13387,1198,week,high,medium,,,45,18
+FlatCoated Retriever,sporting,98,106,90,94,90,18,Excellent,5-15,>85,9.02,none,0,none,4,15747,600,budget,9,4137,10810,1198,day,high,medium,,,59,23
+French Bulldog,nonsporting,26,24,18,11,9,58,Fair,40-80,>30,9,none,0,none,1,17014,1900,highend,9,4128,10786,1198,week,high,medium,12,27,,
+German Pinscher,working,140,146,137,130,135,,,no data,,11.42,,,,2,,1500,highend,,,13686,1198,,,medium,,,47,19
+German Shepherd,herding,3,2,2,2,2,3,Brightest,<5,>95,9.73,"nerves, pancreas, blood (hemophilia), hip joints",8,"Degenerative myelopathy (nerve disorder), Exocrine pancreatic insufficiency, Hemophilia, Hip dysplasia, Renal cystadenocarcinoma and nodular dermatofibrosis, Pannus chronic superficial keratitis, Panosteitis, Perianal fistula",3,17143,820,midprice,9,4462,11661,1198,week,medium,large,,,61,24
+German Shorthaired Pointer,sporting,16,16,15,13,12,17,Excellent,5-15,>85,11.46,hip problems,1,hip dysplasia,4,,545,budget,,,13734,1198,,,large,28,63,61,24
+German Wirehaired Pointer,sporting,110,74,75,71,69,44,Average,25-40,>50,10,hip problems,1,hip dysplasia,3,,655,budget,,,11984,1198,,,large,,,61,24
+Giant Schnauzer,working,87,89,95,83,81,28,Above average,15-25,>70,10,hip problems,1,hip dysplasia,4,,810,midprice,,,11984,1198,,,large,,,65,26
+Glen of Imaal Terrier,terrier,156,158,158,167,156,,,,,10.42,,,,5,,,,,,12488,1198,,,small,16,35,34,13
+Golden Retriever,sporting,4,4,4,3,3,4,Brightest,<5,>95,12.04,"elbows, hips, eyes, heart",4,"elbow dysplasia, hip dysplasia, retinal dysplasia, subaortic stenosis",4,21109,958,midprice,9,5522,14429,1198,week,high,medium,27,60,58,23
+Gordon Setter,sporting,92,97,94,105,97,34,Above average,15-25,>70,11.1,hip problems,1,hip dysplasia,5,19293,700,midprice,9,5091,13303,1198,week,high,large,28,63,64,25
+Great Dane,working,22,21,19,16,15,48,Average,25-40,>50,6.96,"heart, spinal, hip problems, fatal stomach bloat",4,"Dilated cardiomyopathy, Cervical vertebral instability (Wobbler syndrome), Gastric dilatationvolvulus, Hip dysplasia",3,14439,1040,midprice,13,4857,8341,1198,week,high,large,,,76,30
+Great Pyrenees,working,62,64,71,69,73,64,Fair,40-80,>30,10,hip problems,1,hip dysplasia,3,,503,budget,,,11984,1198,,,large,,,72,29
+Greater Swiss Mountain Dog,working,89,101,82,74,78,,,,,6.8,hip problems,1,hip dysplasia,3,,1605,highend,,,8149,1198,,,large,,,66,26
+Greyhound,hound,128,140,140,148,141,46,Average,25-40,>50,9.36,blood vessel disorders,1,familial vasculopathy,2,15579,1175,midprice,6,2986,11217,1198,week,high,large,29,65,,
+Harrier,hound,155,163,172,173,175,,,,,,none,0,none,3,,,,,,,1198,,,medium,,,51,20
+Havanese,toy,36,32,31,25,25,,,,,10.25,none,0,none,6,,830,midprice,,,12284,1198,,,small,,,25,10
+Ibizan Hound,hound,133,144,149,151,153,53,Average,25-40,>50,,none,0,none,2,,1500,highend,9,,,1198,week,high,large,,,64,25
+Icelandic Sheepdog,herding,,,143,142,140,,,,,,,,,3,,,,,,,1198,,,medium,,,44,17
+Irish Red and White Setter,sporting,,80,147,145,149,,,,,11.57,,,,3,,1000,midprice,,,13866,1198,,,large,,,62,24
+Irish Setter,sporting,69,73,70,72,71,35,Above average,15-25,>70,11.63,"hip, eye problems",2,"Hip dysplasia, Progressive retinal atrophy",3,19997,525,budget,9,5334,13938,1198,week,high,large,29,65,66,26
+Irish Terrier,terrier,129,132,132,123,119,53,Average,25-40,>50,,none,0,none,4,,588,budget,9,,,1198,week,high,medium,12,26,46,18
+Irish Water Spaniel,sporting,144,150,150,141,146,24,Excellent,5-15,>85,9.33,hip problems,1,hip dysplasia,4,,,,13,6511,11181,1198,week,high,medium,25,55,57,23
+Irish Wolfhound,hound,81,84,79,73,70,41,Average,25-40,>50,6.94,"heart, liver, hip problems",3,"Dilated cardiomyopathy, Hip dysplasia, Portosystemic shunt",2,18154,1333,midprice,23,8303,8317,1198,week,high,large,,,81,32
+Italian Greyhound,toy,61,68,65,66,72,60,Fair,40-80,>30,10.02,none,0,none,5,16205,800,midprice,6,3197,12008,1198,week,low,small,,,36,14
+Japanese Chin,toy,74,71,78,87,91,62,Fair,40-80,>30,9.25,none,0,none,6,,513,budget,,,11086,1198,,,small,,,24,10
+Keeshond,nonsporting,95,102,98,86,85,16,Excellent,5-15,>85,12.17,hip problems,1,hip dysplasia,5,,610,budget,,,14585,1198,,,medium,,,44,18
+Kerry Blue Terrier,terrier,119,121,124,126,122,35,Above average,15-25,>70,9.4,heart problems,1,Patent ductus arteriosus (PDA),3,16976,1200,midprice,9,4311,11265,1198,day,medium,medium,17,37,47,19
+Komondor,working,151,154,166,159,162,,,,,9.17,hip problems,1,hip dysplasia,2,,656,budget,,,10990,1198,,,large,45,100,70,28
+Kuvasz,working,134,141,148,150,155,42,Average,25-40,>50,,hip problems,1,hip dysplasia,4,,,,,,,1198,,,large,42,93,71,28
+Labrador Retriever,sporting,1,1,1,1,1,7,Brightest,<5,>95,12.04,"elbows, hips, eyes",3,"elbow dysplasia, hip dysplasia, retinal dysplasia",4,20961,810,midprice,9,5522,14429,1198,week,high,medium,31,68,58,23
+Lakeland Terrier,terrier,130,138,135,134,143,62,Fair,40-80,>30,,none,0,none,4,,1093,midprice,9,,,1198,week,high,small,8,17,37,15
+Leonberger,working,,,103,98,101,,,,,6.98,,,,3,14916,1480,midprice,13,4871,8365,1198,week,high,large,,,72,29
+Lhasa Apso,nonsporting,56,54,62,63,65,68,Fair,40-80,>30,13.92,dry eye',1,"Keratoconjunctivitis sicca (KCS) ""dry eye""",6,21673,350,budget,6,4441,16682,1198,week,high,small,7,15,27,11
+Löwchen,nonsporting,136,143,152,154,159,,,,,10,none,0,none,5,,,,,,11984,1198,,,small,,,33,13
+Maltese,toy,20,20,23,27,29,59,Fair,40-80,>30,12.25,heart problems,1,Patent ductus arteriosus (PDA),6,,650,budget,,,14681,1198,,,small,2,5,,
+Manchester Terrier,terrier,107,117,119,120,130,32,Above average,15-25,>70,9.32,none,0,none,2,,720,midprice,,,11169,1198,,,small,8,17,,
+Mastiff,working,28,27,28,26,26,72,Lowest,80-100,<25,6.5,"hip, heart problems",2,"Hip dysplasia, Pulmonic stenosis",3,,900,midprice,,,7790,1198,,,large,,,76,30
+Miniature Bull Terrier,terrier,123,125,127,125,123,,,,,6.6,none,0,none,1,,1740,highend,,,7910,1198,,,small,,,30,12
+Miniature Pinscher,toy,32,33,42,53,60,37,Above average,15-25,>70,,none,0,none,3,,535,budget,,,,1198,,,small,,,29,11
+Miniature Schnauzer,terrier,11,11,12,17,16,12,Excellent,5-15,>85,11.81,"liver, sinus problems",2,"Portosystemic shunt, Sick sinus syndrome",3,,715,midprice,,,14154,1198,,,small,,,33,13
+Neapolitan Mastiff,working,111,113,110,111,109,,,,,,hip problems,1,hip dysplasia,1,,1760,highend,23,,,1198,week,high,large,59,130,70,28
+Newfoundland,working,46,46,43,37,36,34,Above average,15-25,>70,9.32,"hip problems, heart defects",2,"subaortic stenosis, hip dysplasia",4,19051,1178,midprice,13,6504,11169,1198,week,high,large,57,125,69,27
+Norfolk Terrier,terrier,114,122,120,129,125,56,Fair,40-80,>30,13.07,none,0,none,5,23941,2083,highend,9,5994,15664,1198,week,medium,small,5,12,24,10
+Norwegian Buhund,herding,,104,165,166,166,,,,,12.67,,,,3,,,,,,15184,1198,,,medium,15,33,44,17
+Norwegian Elkhound,hound,100,105,96,103,100,36,Above average,15-25,>70,,hip problems,1,hip dysplasia,2,,448,budget,,,,1198,,,medium,23,52,51,20
+Norwegian Lundehund,nonsporting,,,170,175,178,,,,,,,,,3,,,,,,,1198,,,small,,,34,14
+Norwich Terrier,terrier,97,98,89,89,94,38,Above average,15-25,>70,,none,0,none,4,,1245,midprice,9,,,1198,week,medium,small,5,12,25,10
+Nova Scotia Duck Tolling Retriever,sporting,102,110,107,97,96,,,,,6.5,hip problems,1,hip dysplasia,3,12471,1500,highend,9,2981,7790,1198,week,high,medium,,,48,19
+Old English Sheepdog,herding,75,79,84,78,75,63,Fair,40-80,>30,11.19,hip problems,1,hip dysplasia,5,22252,832,midprice,13,7809,13411,1198,day,high,medium,,,56,22
+Otterhound,hound,154,161,169,172,173,46,Average,25-40,>50,10.8,hip problems,1,hip dysplasia,3,,,,9,4953,12943,1198,week,high,large,44,98,65,26
+Papillon,toy,37,37,38,38,42,8,Brightest,<5,>95,13,"cataracts, hair loss, heart, eye, blood clotting disorders",5,"Cataracts, Follicular dysplasias, Mitral valve dysplasia, Progressive retinal atrophy, von Willebrand's disease",6,20667,740,midprice,6,4148,15580,1198,week,medium,small,,,24,10
+Parson Russell Terrier,terrier,85,87,97,100,111,,,,,,none,0,none,4,,528,budget,9,,,1198,week,medium,small,7,15,34,14
+Pekingese,toy,55,53,64,77,80,74,Lowest,80-100,<25,11.56,knee problems,1,Patellar luxation,6,20241,885,midprice,9,5302,13854,1198,n/a,medium,small,6,13,,
+Pembroke Welsh Corgi,herding,24,26,25,24,22,11,Excellent,5-15,>85,12.25,"cataracts + other eye problems, connective tissue, nerves, kidneys, spine, blood clotting disorders",9,"Cataracts, Corneal dystrophy, Cutaneous asthenia (EhlersDanlos syndrome), Degenerative myelopathy, Familial kidney disease, Intervertebral disk disease, Persistent pupillary membranes (PPM), Retinal dysplasia, von Willebrand's disease",4,,587,budget,,,14681,1198,,,small,12,26,28,11
+Petit Basset Griffon Vendeen,hound,118,134,131,138,144,62,Fair,40-80,>30,12.7,none,0,none,5,,400,budget,,,15220,1198,,,small,,,36,14
+Pharaoh Hound,hound,148,152,151,160,158,37,Above average,15-25,>70,11.83,none,0,none,2,20716,913,midprice,9,5425,14178,1198,week,medium,medium,,,58,23
+Plott,hound,126,126,145,149,148,,,,,,none,0,none,3,,,,,,,1198,,,medium,23,50,57,23
+Pointer,sporting,,114,115,114,113,43,Average,25-40,>50,12.42,hip problems,1,hip dysplasia,3,24046,294,budget,13,8668,14885,1198,week,high,large,27,60,65,26
+Polish Lowland Sheepdog,herding,145,153,159,157,164,,,,,10.8,,,,4,,,,9,4953,12943,1198,week,medium,medium,,,47,19
+Pomeranian,toy,13,14,17,19,20,23,Excellent,5-15,>85,9.67,heart problems,1,Patent ductus arteriosus (PDA),6,15544,670,budget,6,3085,11589,1198,week,medium,small,2,5,,
+Poodle,nonsporting,9,9,8,8,7,2,Brightest,<5,>95,11.95,"fatal stomach bloat, skin disorder",2,"Gastric dilatationvolvulus (serious stomach disorder), sebaceous adenitis (skin disorder)",3,20902,900,midprice,9,5480,14321,1198,week,medium,medium,,,41,16
+Portuguese Water Dog,working,64,60,56,49,51,,,,,11.42,none,0,none,4,,,,,,13686,1198,,,medium,22,48,51,20
+Pug,toy,15,17,26,31,32,57,Fair,40-80,>30,11,dry eye',1,"Keratoconjunctivitis sicca (KCS) ""dry eye""",1 or 6 depending on taste,,469,budget,,,13183,1198,,,medium,,,41,16
+Puli,herding,141,149,156,136,145,27,Above average,15-25,>70,,none,0,none,5,,913,midprice,,,,1198,,,medium,,,42,17
+Pyrenean Shepherd,herding,,107,162,169,172,,,,,,,,,3,,,,,,,1198,,,medium,,,46,18
+Redbone Coonhound,hound,,41,126,133,142,,,,,,none,0,none,3,,425,budget,,,,1198,,,large,,,61,24
+Rhodesian Ridgeback,hound,52,48,44,39,38,52,Average,25-40,>50,9.1,"birth defects, hip problems",2,"dermoid sinus, Hip dysplasia",3,16274,995,midprice,9,4173,10906,1198,week,medium,large,35,78,65,26
+Rottweiler,working,14,13,10,9,10,9,Brightest,<5,>95,9.11,"heart, elbow, hip problems",3,"Subaortic stenosis, Elbow dysplasia OCD of the elbow, Hip dysplasia",2,18593,1118,midprice,13,6358,10918,1198,week,medium,large,,,62,25
+Saint Bernard,working,45,45,49,47,50,65,Fair,40-80,>30,7.78,"heart, hip disorders, fatal stomach bloat",3,"Dilated cardiomyopathy, Gastric dilatationvolvulus, Hip dysplasia",4,19707,875,midprice,23,9308,9324,1198,day,high,large,70,155,67,27
+Saluki,hound,116,112,117,115,128,43,Average,25-40,>50,12,none,0,none,2,24481,1525,highend,13,8375,14381,1198,day,high,medium,,,58,23
+Samoyed,working,73,76,69,67,66,33,Above average,15-25,>70,12.44,hip problems,1,hip dysplasia,4,24952,1162,midprice,13,8682,14909,1198,week,high,medium,,,54,21
+Schipperke,nonsporting,91,93,105,109,105,15,Excellent,5-15,>85,13,"hair loss, diabetes, skin problems",4,"colour dilution alopecia, Diabetes mellitus, Follicular dysplasias, Pemphigus",3,,658,budget,,,15580,1198,,,small,,,29,12
+Scottish Deerhound,hound,132,142,142,165,151,47,Average,25-40,>50,8.7,"heart problems, fatal stomach bloat",2,"Dilated cardiomyopathy, Gastric dilatationvolvulus",2,,,,,,10426,1198,,,large,42,93,,
+Scottish Terrier,terrier,49,51,54,55,58,65,Fair,40-80,>30,10.69,blood clotting disorder,1,von Willebrand's disease,4,17251,829,midprice,6,3411,12811,1198,day,medium,small,9,20,25,10
+Sealyham Terrier,terrier,152,157,163,158,163,56,Fair,40-80,>30,12.25,eye problems,1,Retinal dysplasia,4,,,,,,14681,1198,,,small,11,24,27,11
+Shetland Sheepdog,herding,19,18,20,21,21,6,Brightest,<5,>95,12.53,"eye problems, deafness, skin + heart problems, blood clotting disorders",5,"Collie eye anomaly (CEA), deafness, Dermatomyositis and ulcerative dermatosis, Patent ductus arteriosus (PDA), von Willebrand's disease",4,,465,budget,,,15016,1198,,,small,,,37,15
+Shiba Inu,nonsporting,65,65,53,46,46,,,,,7,hip problems,1,hip dysplasia,3,,890,midprice,,,8389,1198,,,small,9,20,38,15
+Shih Tzu,toy,10,10,11,15,17,70,Lowest,80-100,<25,13.2,eye problems,1,"Exposure keratopathy syndrome (exophthalmos, lagophthalmos, and/or macroblepharon)",6,20813,583,budget,6,4211,15819,1198,day,high,small,6,13,25,10
+Siberian Husky,working,23,22,16,14,13,45,Average,25-40,>50,12.58,none,0,none,2,21696,650,budget,9,5769,15076,1198,,high,medium,22,48,55,22
+Silky Terrier,toy,78,78,85,92,98,37,Above average,15-25,>70,14.25,none,0,none,4,,448,budget,,,17078,1198,,,small,5,10,24,10
+Skye Terrier,terrier,142,155,164,161,171,55,Fair,40-80,>30,11,none,0,none,4,,550,budget,,,13183,1198,,,small,18,40,25,10
+Smooth Fox Terrier,terrier,106,123,113,116,118,40,Average,25-40,>50,13.17,none,0,none,3,,575,budget,,,15783,1198,,,small,8,18,38,15
+SoftCoated Wheaten Terrier,terrier,60,62,52,51,48,40,Average,25-40,>50,12.16,none,0,none,4,,832,midprice,,,14573,1198,,,medium,16,35,46,18
+Spinone Italiano,sporting,113,119,123,117,112,,,,,9,,,,3,,1725,highend,,,10786,1198,,,large,,,62,25
+Staffordshire Bull Terrier,terrier,76,77,76,79,77,49,Average,25-40,>50,12.05,hip problems,1,hip dysplasia,1,21312,1145,midprice,9,5526,14441,1198,week,high,medium,14,31,38,15
+Standard Schnauzer,working,99,99,91,90,88,18,Excellent,5-15,>85,,hip problems,1,hip dysplasia,3,,855,midprice,,,,1198,,,medium,,,47,19
+Sussex Spaniel,sporting,147,159,161,162,169,,,,,11.17,none,0,none,4,,,,9,5123,13387,1198,week,low,small,18,40,36,14
+Swedish Vallhund,herding,149,147,153,147,152,,,,,14.17,,,,3,22475,772,midprice,6,4521,16982,1198,week,high,small,,,32,13
+Tibetan Mastiff,working,127,131,122,132,129,,,,,11.92,,,,2,23412,3460,highend,9,5467,14285,1198,week,high,large,,,64,25
+Tibetan Spaniel,nonsporting,104,111,114,106,116,46,Average,25-40,>50,14.42,none,0,none,5,25145,1050,midprice,9,6613,17282,1198,week,high,small,5,12,25,10
+Tibetan Terrier,nonsporting,96,96,86,88,86,62,Fair,40-80,>30,12.31,none,0,none,5,20020,1140,midprice,6,3927,14753,1198,week,medium,small,11,24,39,16
+Toy Fox Terrier,toy,88,100,101,107,110,,,,,,,,,4,,460,budget,,,,1198,,,small,,,25,10
+Vizsla,sporting,44,42,37,34,33,25,Excellent,5-15,>85,12.5,none,0,none,3,,935,midprice,,,14981,1198,,,medium,,,57,23
+Weimaraner,sporting,31,31,32,33,34,21,Excellent,5-15,>85,,hip problems,1,hip dysplasia,3,,562,budget,9,,,1198,week,high,large,,,64,25
+Welsh Springer Spaniel,sporting,121,136,130,124,127,31,Above average,15-25,>70,12.49,hip problems,1,hip dysplasia,5,19903,750,midprice,6,3985,14969,1198,week,high,medium,,,46,18
+Welsh Terrier,terrier,101,103,99,104,103,53,Average,25-40,>50,,none,0,none,4,,843,midprice,6,,,1198,week,high,small,9,20,38,15
+West Highland White Terrier,terrier,34,36,35,36,37,47,Average,25-40,>50,12.8,"lion jaw', 'dry eye', skin problems",3,"Craniomandibular osteopathy (""lion jaw""), Keratoconjunctivitis sicca (KCS) ""dry eye"", seborrhea",6,20161,538,budget,6,4084,15340,1198,week,high,small,,,27,11
+Whippet,hound,63,61,57,59,55,51,Average,25-40,>50,12.87,none,0,none,2,20645,915,midprice,6,4106,15424,1198,week,medium,medium,,,51,20
+Wire Fox Terrier,terrier,90,95,100,96,93,51,Average,25-40,>50,13.17,none,0,none,4,,668,budget,,,15783,1198,,,small,8,18,38,15
+Wirehaired Pointing Griffon,sporting,105,108,92,80,74,46,Average,25-40,>50,8.8,none,0,none,4,,755,midprice,,,10546,1198,,,medium,,,56,22
+Xoloitzcuintli,nonsporting,,,155,139,136,,,,,,,,,2,,717,midprice,,,,1198,,,medium,,,42,17
+Yorkshire Terrier,toy,2,3,5,6,6,27,Above average,15-25,>70,12.6,"knee, liver, trachea, eye disorders",4,"Patellar luxation, Portosystemic shunt, tracheal collapse, Retinal dysplasia",5,20377,1057,midprice,6,4020,15100,1198,day,low,small,2,6,,

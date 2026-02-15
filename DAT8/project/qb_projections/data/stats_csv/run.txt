@@ -1,0 +1,16 @@
+#!/bin/bash
+sed -e 's/$/,/g' -e '$ s/,$//' nfl2000stats.csv > temp.csv && mv temp.csv nfl2000stats.csv
+sed -e 's/$/,/g' -e '$ s/,$//' nfl2001stats.csv > temp.csv && mv temp.csv nfl2001stats.csv
+sed -e 's/$/,/g' -e '$ s/,$//' nfl2002stats.csv > temp.csv && mv temp.csv nfl2002stats.csv
+sed -e 's/$/,/g' -e '$ s/,$//' nfl2003stats.csv > temp.csv && mv temp.csv nfl2003stats.csv
+sed -e 's/$/,/g' -e '$ s/,$//' nfl2004stats.csv > temp.csv && mv temp.csv nfl2004stats.csv
+sed -e 's/$/,/g' -e '$ s/,$//' nfl2005stats.csv > temp.csv && mv temp.csv nfl2005stats.csv
+sed -e 's/$/,/g' -e '$ s/,$//' nfl2006stats.csv > temp.csv && mv temp.csv nfl2006stats.csv
+sed -e 's/$/,/g' -e '$ s/,$//' nfl2007stats.csv > temp.csv && mv temp.csv nfl2007stats.csv
+sed -e 's/$/,/g' -e '$ s/,$//' nfl2008stats.csv > temp.csv && mv temp.csv nfl2008stats.csv
+sed -e 's/$/,/g' -e '$ s/,$//' nfl2009stats.csv > temp.csv && mv temp.csv nfl2009stats.csv
+
+sed -e 's/$/,/g' -e '$ s/,$//' nfl2011stats.csv > temp.csv && mv temp.csv nfl2011stats.csv
+sed -e 's/$/,/g' -e '$ s/,$//' nfl2010stats.csv > temp.csv && mv temp.csv nfl2010stats.csv
+sed -e 's/$/,/g' -e '$ s/,$//' nfl2012stats.csv > temp.csv && mv temp.csv nfl2012stats.csv
+sed -e 's/$/,/g' -e '$ s/,$//' nfl2013stats.csv > temp.csv && mv temp.csv nfl2013stats.csv

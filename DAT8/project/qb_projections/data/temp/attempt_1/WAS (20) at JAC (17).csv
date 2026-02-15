@@ -1,0 +1,3 @@
+name,id,home,team,pos,fumbles_lost,fumbles_rcv,fumbles_tot,fumbles_trcv,fumbles_yds,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+D.Garrard,00-0021231,yes,JAC,,0,1,2,1,0,38,22,2,1,0,0,299,6,20,20,1,0,0,39
+R.Grossman,00-0022121,no,WAS,,,,,,,39,19,1,1,0,0,182,1,5,0,0,0,0,5

@@ -1,0 +1,6 @@
+name,id,home,team,pos,fumbles_lost,fumbles_rcv,fumbles_tot,fumbles_trcv,fumbles_yds,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+J.Delhomme,00-0004161,yes,CAR,,1,0,1,0,0,17,7,4,0,0,0,73,2,10,0,0,0,9
+J.McCown,00-0021206,yes,CAR,QB,,,,,,6,1,0,0,0,0,2,,,,,,
+M.Moore,00-0025708,yes,CAR,QB,,,,,,11,6,1,0,0,0,63,,,,,,
+D.McNabb,00-0011022,no,PHI,,,,,,,18,10,1,2,0,0,79,4,15,1,0,0,27
+K.Kolb,00-0025423,no,PHI,,1,0,2,0,0,11,7,0,0,0,0,23,3,5,0,0,0,4

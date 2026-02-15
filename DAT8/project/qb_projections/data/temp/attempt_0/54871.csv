@@ -1,0 +1,4 @@
+name,id,home,team,pos,fumbles_lost,fumbles_rcv,fumbles_tot,fumbles_trcv,fumbles_yds,kickret_avg,kickret_lng,kickret_lngtd,kickret_ret,kickret_tds,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,puntret_avg,puntret_lng,puntret_lngtd,puntret_ret,puntret_tds,receiving_lng,receiving_lngtd,receiving_rec,receiving_tds,receiving_twopta,receiving_twoptm,receiving_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+J.Freeman,00-0026993,yes,TB,,,,,,,,,,,,28,17,1,2,0,0,182,,,,,,,,,,,,,2,33,0,0,0,0,34
+J.Delhomme,00-0004161,no,CLE,,,,,,,,,,,,37,20,2,1,0,0,227,,,,,,,,,,,,,1,1,0,0,0,0,1
+J.Cribbs,00-0023176,no,CLE,,0,0,1,0,0,15,18,0,3,0,1,1,0,0,0,0,9,9,15,0,3,0,6,0,2,0,0,0,11,3,6,0,0,0,0,11

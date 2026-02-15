@@ -1,0 +1,4 @@
+name,id,home,team,pos,fumbles_lost,fumbles_rcv,fumbles_tot,fumbles_trcv,fumbles_yds,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+D.Carr,00-0020608,yes,NYG,,0,0,1,0,-1,14,9,0,0,0,0,90,4,12,1,0,0,27
+E.Manning,00-0022803,yes,NYG,QB,,,,,,10,8,0,2,0,0,173,,,,,,
+J.Russell,00-0025388,no,OAK,,3,0,3,0,0,13,8,0,0,0,0,100,2,3,0,0,0,5

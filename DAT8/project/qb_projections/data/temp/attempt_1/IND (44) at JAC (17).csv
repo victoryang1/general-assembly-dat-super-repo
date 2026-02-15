@@ -1,0 +1,5 @@
+name,id,home,team,pos,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+C.Henne,00-0026197,yes,JAC,QB,7,4,0,0,0,0,33,,,,,,,
+B.Bortles,00-0031407,yes,JAC,QB,24,14,2,2,0,0,223,2,20,0,0,0,0,30
+M.Hasselbeck,00-0007091,no,IND,QB,4,2,0,0,0,0,20,1,-1,0,0,0,0,-1
+A.Luck,00-0029668,no,IND,QB,39,31,0,4,0,0,370,3,10,0,0,0,0,15

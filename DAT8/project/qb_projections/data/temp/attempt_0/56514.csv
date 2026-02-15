@@ -1,0 +1,4 @@
+name,id,home,team,pos,fumbles_lost,fumbles_rcv,fumbles_tot,fumbles_trcv,fumbles_yds,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+M.McGloin,00-0030419,yes,OAK,QB,1,0,1,0,0,31,23,1,2,1,0,142,,,,,,,
+D.Carr,00-0031280,yes,OAK,QB,0,0,1,0,0,12,7,0,0,0,0,61,1,8,0,0,0,0,8
+A.Dalton,00-0027973,no,CIN,QB,,,,,,34,25,0,2,0,0,269,4,3,0,0,0,0,1

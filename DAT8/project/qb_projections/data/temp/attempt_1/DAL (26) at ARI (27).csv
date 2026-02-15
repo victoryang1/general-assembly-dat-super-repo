@@ -1,0 +1,4 @@
+name,id,home,team,pos,fumbles_lost,fumbles_rcv,fumbles_tot,fumbles_trcv,fumbles_yds,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+J.Skelton,00-0027754,yes,ARI,,0,0,1,0,-14,25,11,0,1,0,0,183,3,16,0,0,0,0,21
+S.McGee,00-0027071,no,DAL,,0,1,1,1,-4,17,11,0,1,0,0,111,4,11,0,0,0,0,19
+J.Kitna,00-0009311,no,DAL,,,,,,,20,12,2,1,0,0,115,1,7,0,0,0,0,7

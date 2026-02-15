@@ -1,0 +1,4 @@
+name,id,home,team,pos,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+C.Henne,00-0026197,yes,JAC,QB,45,29,0,1,0,0,228,1,1,0,0,0,0,1
+C.Kaepernick,00-0027974,no,SF,QB,16,10,0,1,0,0,164,7,17,12,2,0,0,54
+C.McCoy,00-0027688,no,SF,QB,1,1,0,0,0,0,13,,,,,,,

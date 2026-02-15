@@ -1,0 +1,5 @@
+name,id,home,team,pos,fumbles_lost,fumbles_rcv,fumbles_tot,fumbles_trcv,fumbles_yds,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+D.Anderson,00-0023645,yes,CAR,QB,,,,,,3,3,0,0,0,0,46,,,,,,,
+C.Newton,00-0027939,yes,CAR,QB,,,,,,30,16,3,0,0,0,242,6,3,1,1,0,0,6
+D.Carr,00-0020608,no,NYG,,0,1,1,1,0,2,1,0,0,0,0,4,,,,,,,
+E.Manning,00-0022803,no,NYG,QB,,,,,,35,27,0,1,0,0,288,2,4,0,0,0,0,5

@@ -1,0 +1,4 @@
+name,id,home,team,pos,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+R.Tannehill,00-0029701,yes,MIA,QB,39,23,3,0,0,0,217,1,-1,0,0,0,0,-1
+J.Locker,00-0027946,no,TEN,,21,9,0,2,0,0,122,4,20,0,0,0,0,36
+M.Hasselbeck,00-0007091,no,TEN,QB,1,0,0,0,0,0,0,3,-1,0,0,0,0,-3

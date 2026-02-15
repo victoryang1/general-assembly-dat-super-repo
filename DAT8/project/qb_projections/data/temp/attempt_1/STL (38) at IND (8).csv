@@ -1,0 +1,4 @@
+name,id,home,team,pos,fumbles_lost,fumbles_rcv,fumbles_tot,fumbles_trcv,fumbles_yds,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+M.Hasselbeck,00-0007091,yes,IND,QB,,,,,,5,2,1,0,0,0,68,1,-1,0,0,0,0,-1
+A.Luck,00-0029668,yes,IND,QB,1,0,1,0,0,47,29,3,1,1,1,353,4,7,0,0,0,0,17
+K.Clemens,00-0024264,no,STL,QB,1,0,1,0,-3,16,9,0,2,0,0,247,3,2,0,0,0,0,2

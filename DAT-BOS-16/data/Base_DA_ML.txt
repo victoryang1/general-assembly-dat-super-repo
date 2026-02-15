@@ -1,0 +1,35 @@
+# Decision Tree classifier
+
+DTm = DecisionTreeClassifier()
+                                
+#dividing data to have a training and a testing set
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size= .4, random_state=0)
+
+# Decision Tree cross validation
+
+Kfold = KFold(len(breast_cancer_ranked), n_folds=5, shuffle=False)
+
+print("KfoldCrossVal mean score using Decision Tree is %s" %cross_val_score(DTm,X,y,cv=10).mean())
+
+# Decision Tree metrics
+sm = DTm.fit(X_train, y_train)
+
+y_pred = sm.predict(X_test)
+print("Accuracy score using Decision Tree is %s" %metrics.accuracy_score(y_test, y_pred))
+
+
+# confusion matrix
+print (metrics.confusion_matrix(y_test, y_pred))
+
+# AUC
+print (metrics.roc_auc_score(y_test, y_pred))
+
+
+# plot ROC curve using y_test and y_pred
+fpr, tpr, thresholds = metrics.roc_curve(y_test, y_pred)
+plt.plot(fpr, tpr)
+plt.xlim([0.0, 1.0])
+plt.ylim([0.0, 1.0])
+plt.xlabel('False Positive Rate (1 - Specificity)')
+plt.ylabel('True Positive Rate (Sensitivity)')
+

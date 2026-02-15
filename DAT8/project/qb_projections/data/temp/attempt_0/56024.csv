@@ -1,0 +1,4 @@
+name,id,home,team,pos,kickret_avg,kickret_lng,kickret_lngtd,kickret_ret,kickret_tds,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,puntret_avg,puntret_lng,puntret_lngtd,puntret_ret,puntret_tds,receiving_lng,receiving_lngtd,receiving_rec,receiving_tds,receiving_twopta,receiving_twoptm,receiving_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+C.Kaepernick,00-0027974,yes,SF,QB,,,,,,28,19,0,1,0,0,275,,,,,,,,,,,,,4,8,0,0,0,0,21
+K.Clemens,00-0024264,no,STL,QB,,,,,,37,19,1,1,0,0,218,,,,,,,,,,,,,3,12,0,0,0,0,21
+T.Austin,00-0030525,no,STL,WR,16,20,0,4,0,1,0,0,0,0,0,0,10,10,0,1,0,8,0,4,0,0,0,25,1,10,0,0,0,0,10

@@ -1,0 +1,3 @@
+name,id,home,team,pos,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+G.Smith,00-0030565,yes,NYJ,QB,27,17,1,1,0,0,210,3,6,0,0,0,0,9
+T.Brady,00-0019596,no,NE,QB,35,23,1,1,0,0,182,7,11,0,0,0,0,10

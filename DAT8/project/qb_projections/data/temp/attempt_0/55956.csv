@@ -1,0 +1,3 @@
+name,id,home,team,pos,fumbles_lost,fumbles_rcv,fumbles_tot,fumbles_trcv,fumbles_yds,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+K.Clemens,00-0024264,yes,STL,QB,0,0,1,0,0,31,15,2,0,0,0,158,2,6,0,0,0,0,11
+R.Wilson,00-0029263,no,SEA,QB,,,,,,18,10,0,2,0,0,139,3,17,0,0,0,0,16

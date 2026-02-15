@@ -1,0 +1,3 @@
+name,id,home,team,pos,fumbles_lost,fumbles_rcv,fumbles_tot,fumbles_trcv,fumbles_yds,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+J.Freeman,00-0026993,yes,TB,,,,,,,24,16,0,1,0,0,138,7,12,0,0,0,0,13
+C.Newton,00-0027939,no,CAR,QB,0,1,1,1,0,33,23,2,1,0,0,303,5,4,0,0,0,0,4

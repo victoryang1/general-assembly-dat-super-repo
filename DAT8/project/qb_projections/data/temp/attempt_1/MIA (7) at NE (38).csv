@@ -1,0 +1,5 @@
+name,id,home,team,pos,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+B.Hoyer,00-0026625,yes,NE,QB,13,7,0,1,0,0,122,1,-1,0,0,0,0,-1
+T.Brady,00-0019596,yes,NE,QB,16,10,0,2,0,0,199,,,,,,,
+C.Henne,00-0026197,no,MIA,QB,16,6,1,0,0,0,71,,,,,,,
+T.Thigpen,00-0025604,no,MIA,,21,10,0,1,0,0,169,3,9,0,0,0,0,21

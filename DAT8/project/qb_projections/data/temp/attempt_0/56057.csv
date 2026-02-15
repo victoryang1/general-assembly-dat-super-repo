@@ -1,0 +1,6 @@
+name,id,home,team,pos,fumbles_lost,fumbles_rcv,fumbles_tot,fumbles_trcv,fumbles_yds,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,receiving_lng,receiving_lngtd,receiving_rec,receiving_tds,receiving_twopta,receiving_twoptm,receiving_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+M.McGloin,00-0030419,yes,OAK,QB,1,0,1,0,-11,36,18,4,2,0,0,297,,,,,,,,1,0,0,0,0,0,0
+T.Pryor,00-0028825,yes,OAK,,,,,,,4,1,1,0,0,0,12,,,,,,,,3,15,0,0,0,0,19
+M.Reece,00-0026393,yes,OAK,FB,,,,,,1,1,0,0,0,0,22,45,0,2,0,0,0,52,5,8,0,0,0,0,18
+C.Daniel,00-0026544,no,KC,QB,,,,,,5,3,0,0,0,0,31,,,,,,,,1,-1,0,0,0,0,-1
+A.Smith,00-0023436,no,KC,QB,1,0,1,0,0,20,17,0,5,0,0,287,,,,,,,,4,11,0,0,0,0,17

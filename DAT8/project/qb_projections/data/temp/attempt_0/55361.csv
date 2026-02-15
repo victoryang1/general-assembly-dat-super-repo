@@ -1,0 +1,5 @@
+name,id,home,team,pos,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,punting_avg,punting_i20,punting_lng,punting_pts,punting_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+A.Rodgers,00-0023459,yes,GB,QB,30,17,1,2,0,0,281,,,,,,,,,,,,
+M.Flynn,00-0026349,yes,GB,,2,0,0,0,0,0,0,,,,,,3,0,0,0,0,0,-2
+C.Palmer,00-0021429,no,OAK,QB,42,24,4,1,0,0,245,,,,,,2,10,0,0,0,0,12
+S.Lechler,00-0019714,no,OAK,P,1,0,0,0,0,0,0,44,2,71,5,247,,,,,,,

@@ -1,0 +1,4 @@
+name,id,home,team,pos,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+M.Ryan,00-0026143,yes,ATL,QB,32,22,0,1,0,0,316,6,7,0,0,0,0,3
+J.Locker,00-0027946,no,TEN,,19,9,0,2,0,0,140,1,11,0,0,0,0,11
+M.Hasselbeck,00-0007091,no,TEN,QB,25,13,1,0,0,0,124,1,17,0,0,0,0,17

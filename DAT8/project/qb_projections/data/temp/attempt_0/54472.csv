@@ -1,0 +1,4 @@
+name,id,home,team,pos,fumbles_lost,fumbles_rcv,fumbles_tot,fumbles_trcv,fumbles_yds,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+B.Quinn,00-0025409,yes,CLE,,1,0,1,0,0,35,21,1,1,0,0,205,2,11,0,0,0,21
+T.Jackson,00-0024279,no,MIN,QB,,,,,,1,0,0,0,0,0,0,1,-1,0,0,0,-1
+B.Favre,00-0005106,no,MIN,,,,,,,21,14,0,1,0,0,110,,,,,,

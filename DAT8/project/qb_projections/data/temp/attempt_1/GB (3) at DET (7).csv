@@ -1,0 +1,4 @@
+name,id,home,team,pos,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+D.Stanton,00-0025430,yes,DET,QB,22,10,2,1,0,0,117,4,17,0,0,0,0,44
+A.Rodgers,00-0023459,no,GB,QB,11,7,1,0,0,0,46,2,18,0,0,0,0,25
+M.Flynn,00-0026349,no,GB,,26,15,1,0,0,0,177,3,12,0,0,0,0,10

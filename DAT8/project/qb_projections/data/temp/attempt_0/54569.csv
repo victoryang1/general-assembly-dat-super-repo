@@ -1,0 +1,4 @@
+name,id,home,team,pos,fumbles_lost,fumbles_rcv,fumbles_tot,fumbles_trcv,fumbles_yds,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+J.Campbell,00-0023460,yes,WAS,,1,1,2,1,-6,43,29,1,2,0,0,284,4,5,0,0,0,8
+D.McNabb,00-0011022,no,PHI,,0,0,1,0,0,25,15,0,1,0,0,156,5,1,0,0,0,-5
+M.Vick,00-0020245,no,PHI,QB,,,,,,1,1,0,0,0,0,5,3,9,0,0,0,9

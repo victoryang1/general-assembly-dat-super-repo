@@ -1,0 +1,4 @@
+name,id,home,team,pos,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+T.Brandstater,00-0027121,yes,STL,,2,0,0,0,0,0,0,,,,,,,
+K.Clemens,00-0024264,yes,STL,QB,31,14,1,1,0,0,226,2,18,18,1,0,0,18
+Alex Smith,00-0023436,no,SF,QB,31,21,0,1,0,0,219,5,8,8,1,0,0,4

@@ -1,0 +1,4 @@
+name,id,home,team,pos,fumbles_lost,fumbles_rcv,fumbles_tot,fumbles_trcv,fumbles_yds,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+J.Flacco,00-0026158,yes,BAL,QB,,,,,,20,13,0,1,0,0,230,1,2,0,0,0,2
+T.Smith,00-0025561,yes,BAL,,,,,,,3,2,0,0,0,0,10,2,15,1,0,0,14
+D.Culpepper,00-0003739,no,DET,,0,1,1,1,-6,34,16,2,0,0,0,135,7,3,0,0,0,11

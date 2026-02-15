@@ -1,0 +1,4 @@
+name,id,home,team,pos,fumbles_lost,fumbles_rcv,fumbles_tot,fumbles_trcv,fumbles_yds,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,punting_avg,punting_i20,punting_lng,punting_pts,punting_yds,rushing_att,rushing_lng,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+T.Edwards,00-0025479,yes,BUF,,,,,,,35,20,1,0,0,0,156,,,,,,2,11,0,0,0,13
+B.Moorman,00-0011626,yes,BUF,,,,,,,1,1,0,1,0,0,25,40,1,58,9,419,,,,,,
+D.Brees,00-0020531,no,NO,QB,1,0,1,0,0,29,16,0,0,0,0,172,,,,,,6,10,0,0,0,8

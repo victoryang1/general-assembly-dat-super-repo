@@ -1,0 +1,4 @@
+name,id,home,team,pos,fumbles_lost,fumbles_rcv,fumbles_tot,fumbles_trcv,fumbles_yds,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+C.Kaepernick,00-0027974,yes,SF,QB,,,,,,2,0,0,0,0,0,0,,,,,,,
+Alex Smith,00-0023436,yes,SF,QB,,,,,,23,17,0,2,0,0,274,2,8,0,0,0,0,10
+A.Feeley,00-0020305,no,STL,,1,0,1,0,0,22,12,1,0,0,0,156,,,,,,,

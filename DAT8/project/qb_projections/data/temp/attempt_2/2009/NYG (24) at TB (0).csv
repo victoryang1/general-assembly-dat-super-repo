@@ -1,0 +1,5 @@
+name,id,home,team,pos,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+B.Leftwich,00-0022177,yes,TB,,16,7,1,0,0,0,22,2,4,0,0,0,3
+J.Johnson,00-0026300,yes,TB,,10,4,0,0,0,0,36,1,15,0,0,0,15
+D.Carr,00-0020608,no,NYG,,3,2,0,0,0,0,10,2,-1,0,0,0,-2
+E.Manning,00-0022803,no,NYG,QB,24,14,0,2,0,0,161,1,9,0,0,0,9

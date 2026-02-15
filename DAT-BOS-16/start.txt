@@ -1,0 +1,11 @@
+source activate py27
+jupyter notebook
+
+
+cd DAT-BOS-16
+
+git pull
+git add . 
+git commit -m "commit msg"
+git push
+

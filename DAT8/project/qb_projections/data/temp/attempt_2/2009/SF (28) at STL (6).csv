@@ -1,0 +1,4 @@
+name,id,home,team,pos,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+K.Boller,00-0022164,yes,STL,,11,4,0,0,0,0,23,1,13,0,0,0,13
+K.Null,00-0027131,yes,STL,,17,7,0,0,0,0,57,3,3,0,0,0,6
+A.Smith,00-0023436,no,SF,QB,28,17,0,1,0,0,222,4,4,0,0,0,1

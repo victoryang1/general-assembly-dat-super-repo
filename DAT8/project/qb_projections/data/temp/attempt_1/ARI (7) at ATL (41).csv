@@ -1,0 +1,4 @@
+name,id,home,team,pos,fumbles_lost,fumbles_rcv,fumbles_tot,fumbles_trcv,fumbles_yds,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+M.Ryan,00-0026143,yes,ATL,QB,1,0,1,0,0,32,21,0,3,0,0,225,6,9,0,0,0,0,6
+D.Anderson,00-0023645,no,ARI,QB,0,0,1,0,0,31,17,2,0,0,0,161,,,,,,,
+M.Hall,00-0027347,no,ARI,,,,,,,2,1,1,0,0,0,3,,,,,,,

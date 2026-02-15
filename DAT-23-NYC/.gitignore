@@ -1,0 +1,23 @@
+# compiled code
+*.pyc
+
+# ipython notebook stuff
+.ipynb_checkpoints
+
+# apple cruft
+.DS_Store
+
+# secret keys
+twitter_config_rn.py
+
+# original powerpoint and keynote slides
+*.ppt
+*.pptx
+*.key
+
+# hide files and folders starting with _
+_*
+
+
+# exclude any downloaded tweets
+tweets/

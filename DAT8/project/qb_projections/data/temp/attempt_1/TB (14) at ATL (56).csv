@@ -1,0 +1,5 @@
+name,id,home,team,pos,fumbles_lost,fumbles_rcv,fumbles_tot,fumbles_trcv,fumbles_yds,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+T.Yates,00-0028090,yes,ATL,,,,,,,4,3,1,0,0,0,64,,,,,,,
+M.Ryan,00-0026143,yes,ATL,QB,,,,,,24,21,0,3,0,0,286,1,2,0,0,0,0,2
+M.Glennon,00-0030520,no,TB,QB,0,1,0,1,0,24,17,0,1,0,0,121,3,19,0,0,0,0,19
+J.McCown,00-0021206,no,TB,QB,,,,,,12,5,1,0,0,0,58,,,,,,,

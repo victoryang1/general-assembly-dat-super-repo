@@ -1,0 +1,3 @@
+name,id,home,team,pos,fumbles_lost,fumbles_rcv,fumbles_tot,fumbles_trcv,fumbles_yds,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+C.Kaepernick,00-0027974,yes,SF,QB,2,1,3,1,-4,33,22,0,1,0,0,237,5,9,0,0,0,0,14
+A.Davis,00-0028957,no,STL,QB,,,,,,24,13,2,1,0,0,105,2,10,0,0,0,0,9

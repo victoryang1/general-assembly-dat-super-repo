@@ -1,0 +1,5 @@
+name,id,home,team,pos,fumbles_lost,fumbles_rcv,fumbles_tot,fumbles_trcv,fumbles_yds,kickret_avg,kickret_lng,kickret_ret,kickret_tds,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,puntret_avg,puntret_lng,puntret_ret,puntret_tds,receiving_lng,receiving_rec,receiving_tds,receiving_twopta,receiving_twoptm,receiving_yds,rushing_att,rushing_lng,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+V.Young,00-0024218,yes,TEN,,0,1,2,1,-5,,,,,25,17,1,1,0,0,210,,,,,,,,,,,5,14,0,0,0,29
+T.Edwards,00-0025479,no,BUF,,,,,,,,,,,28,18,1,1,0,0,185,,,,,,,,,,,3,2,0,0,0,4
+R.Fitzpatrick,00-0023682,no,BUF,QB,,,,,,,,,,7,2,1,0,0,0,6,,,,,,,,,,,,,,,,
+F.Jackson,00-0024204,no,BUF,RB,,,,,,23,29,7,0,1,1,0,1,0,0,27,12,16,2,0,10,3,0,0,0,23,8,14,0,0,0,48

@@ -1,0 +1,3 @@
+name,id,home,team,pos,fumbles_lost,fumbles_rcv,fumbles_tot,fumbles_trcv,fumbles_yds,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+K.Clemens,00-0024264,yes,STL,QB,,,,,,20,14,0,2,0,0,158,3,7,0,0,0,0,5
+D.Brees,00-0020531,no,NO,QB,1,0,1,0,0,56,39,2,1,0,0,393,2,7,1,1,0,0,8

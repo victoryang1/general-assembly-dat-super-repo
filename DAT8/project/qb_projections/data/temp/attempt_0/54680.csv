@@ -1,0 +1,4 @@
+name,id,home,team,pos,kickret_avg,kickret_lng,kickret_ret,kickret_tds,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,puntret_avg,puntret_lng,puntret_ret,puntret_tds,receiving_lng,receiving_rec,receiving_tds,receiving_twopta,receiving_twoptm,receiving_yds,rushing_att,rushing_lng,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+M.Cassel,00-0023662,yes,KC,QB,,,,,40,22,0,2,0,0,331,,,,,,,,,,,2,5,0,0,0,10
+B.Quinn,00-0025409,no,CLE,,,,,,17,10,2,0,0,0,66,,,,,,,,,,,4,24,0,0,0,39
+J.Cribbs,00-0023176,no,CLE,,44,103,6,2,1,0,0,0,0,0,0,9,16,4,0,3,1,0,0,0,3,3,4,0,0,0,8

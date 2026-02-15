@@ -1,0 +1,4 @@
+name,id,home,team,pos,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+P.Rivers,00-0022942,yes,SD,QB,28,20,1,3,0,0,288,2,4,0,0,0,0,3
+G.Smith,00-0030565,no,NYJ,QB,12,4,1,0,0,0,27,1,3,0,0,0,0,3
+M.Vick,00-0020245,no,NYJ,QB,19,8,0,0,0,0,47,2,13,0,0,0,0,14

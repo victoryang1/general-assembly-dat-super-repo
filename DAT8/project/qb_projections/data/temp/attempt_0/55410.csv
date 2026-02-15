@@ -1,0 +1,4 @@
+name,id,home,team,pos,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,puntret_avg,puntret_lng,puntret_lngtd,puntret_ret,puntret_tds,receiving_lng,receiving_lngtd,receiving_rec,receiving_tds,receiving_twopta,receiving_twoptm,receiving_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+M.Moore,00-0025708,yes,MIA,QB,32,22,2,1,0,0,135,,,,,,,,,,,,,3,1,0,0,0,0,-1
+J.Kerley,00-0028091,no,NYJ,WR,1,1,0,0,0,0,41,13,14,0,2,0,30,0,4,0,0,0,71,1,16,0,0,0,0,16
+M.Sanchez,00-0026898,no,NYJ,QB,32,21,3,2,0,0,207,,,,,,,,,,,,,1,2,0,0,0,0,2

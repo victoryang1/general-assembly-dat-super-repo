@@ -1,0 +1,4 @@
+name,id,home,team,pos,fumbles_lost,fumbles_rcv,fumbles_tot,fumbles_trcv,fumbles_yds,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+J.Cutler,00-0024226,yes,CHI,QB,1,0,1,0,0,35,23,1,2,1,0,372,5,11,0,0,0,0,22
+Sh.Hill,00-0020679,no,DET,QB,1,1,1,1,0,19,9,1,0,0,0,88,3,3,0,0,0,0,-4
+M.Stafford,00-0026498,no,DET,QB,1,0,1,0,0,15,11,0,0,0,0,83,,,,,,,

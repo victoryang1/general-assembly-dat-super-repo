@@ -1,0 +1,4 @@
+name,id,home,team,pos,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+A.Dalton,00-0027973,yes,CIN,QB,30,19,1,5,0,0,325,,,,,,,
+G.Smith,00-0030565,no,NYJ,QB,30,20,2,0,0,0,159,2,5,0,0,0,0,8
+M.Simms,00-0029151,no,NYJ,,7,3,0,0,0,0,17,3,22,0,0,0,0,35
