@@ -1,0 +1,4 @@
+name,id,home,team,pos,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,receiving_lng,receiving_lngtd,receiving_rec,receiving_tds,receiving_twopta,receiving_twoptm,receiving_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+A.Boldin,00-0022084,yes,SF,WR,1,0,0,0,0,0,0,27,0,4,0,0,0,72,,,,,,,
+C.Kaepernick,00-0027974,yes,SF,QB,26,14,0,1,0,0,201,,,,,,,,10,9,0,0,0,0,18
+A.Smith,00-0023436,no,KC,QB,31,17,1,2,0,0,175,,,,,,,,1,6,0,0,0,0,6

@@ -1,0 +1,4 @@
+name,id,home,team,pos,fumbles_lost,fumbles_rcv,fumbles_tot,fumbles_trcv,fumbles_yds,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,punting_avg,punting_i20,punting_lng,punting_pts,punting_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+M.Stafford,00-0026498,yes,DET,QB,,,,,,40,25,1,2,0,0,280,,,,,,2,0,0,0,0,0,-1
+S.Martin,00-0030092,yes,DET,P,,,,,,2,2,0,0,0,0,27,37,1,59,3,137,,,,,,,
+R.Tannehill,00-0029701,no,MIA,QB,0,0,1,0,0,38,27,1,1,0,0,215,,,,,,2,3,0,0,0,0,0

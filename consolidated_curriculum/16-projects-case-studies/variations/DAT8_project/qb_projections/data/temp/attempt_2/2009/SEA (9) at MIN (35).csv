@@ -1,0 +1,5 @@
+name,id,home,team,pos,fumbles_lost,fumbles_rcv,fumbles_tot,fumbles_trcv,fumbles_yds,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+T.Jackson,00-0024279,yes,MIN,QB,,,,,,8,6,0,1,0,0,77,2,6,0,0,0,5
+B.Favre,00-0005106,yes,MIN,,,,,,,25,22,0,4,0,0,213,,,,,,
+M.Hasselbeck,00-0007091,no,SEA,QB,0,1,1,1,-10,26,19,1,0,1,0,231,2,4,0,0,0,4
+S.Wallace,00-0022055,no,SEA,,,,,,,3,0,0,0,0,0,0,1,-9,0,0,0,-9

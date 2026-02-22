@@ -1,0 +1,5 @@
+name,id,home,team,pos,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+C.Kaepernick,00-0027974,yes,SF,QB,3,3,0,0,0,0,35,2,-1,0,0,0,0,-2
+Alex Smith,00-0023436,yes,SF,QB,19,11,0,3,0,0,170,,,,,,,
+J.Johnson,00-0026300,no,TB,,2,1,0,0,0,0,7,,,,,,,
+J.Freeman,00-0026993,no,TB,,33,17,2,0,0,0,187,1,2,0,0,0,0,2

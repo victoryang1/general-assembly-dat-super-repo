@@ -1,0 +1,4 @@
+name,id,home,team,pos,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+J.Johnson,00-0026300,yes,TB,,4,2,0,0,0,0,17,1,11,0,0,0,0,11
+J.Freeman,00-0026993,yes,TB,,43,25,0,1,1,0,219,3,3,0,0,0,0,2
+D.Brees,00-0020531,no,NO,QB,32,21,1,3,0,0,263,2,3,0,0,0,0,2

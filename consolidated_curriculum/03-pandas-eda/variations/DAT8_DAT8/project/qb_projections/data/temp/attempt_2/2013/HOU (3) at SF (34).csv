@@ -1,0 +1,4 @@
+name,id,home,team,pos,fumbles_lost,fumbles_rcv,fumbles_tot,fumbles_trcv,fumbles_yds,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+C.Kaepernick,00-0027974,yes,SF,QB,,,,,,15,6,0,1,0,0,113,1,14,0,0,0,0,14
+T.Yates,00-0028090,no,HOU,,0,1,0,1,0,5,3,0,0,0,0,15,1,0,0,0,0,0,0
+M.Schaub,00-0022787,no,HOU,QB,,,,,,35,19,3,0,0,0,173,,,,,,,

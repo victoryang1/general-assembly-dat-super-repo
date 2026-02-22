@@ -1,0 +1,4 @@
+name,id,home,team,pos,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+E.Manning,00-0022803,yes,NYG,QB,52,24,3,2,0,0,334,,,,,,,
+M.Vick,00-0020245,no,PHI,QB,14,6,0,0,0,0,105,7,34,0,0,0,0,79
+N.Foles,00-0029567,no,PHI,QB,25,16,0,2,0,0,197,3,3,0,0,0,0,1

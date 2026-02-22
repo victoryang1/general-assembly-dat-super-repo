@@ -1,0 +1,4 @@
+name,id,home,team,pos,fumbles_lost,fumbles_rcv,fumbles_tot,fumbles_trcv,fumbles_yds,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+R.Fitzpatrick,00-0023682,yes,BUF,QB,1,0,1,0,0,38,21,2,1,0,0,217,3,4,0,0,0,0,8
+T.Thigpen,00-0025604,yes,BUF,,,,,,,5,3,0,0,0,0,30,,,,,,,
+R.Wilson,00-0029263,no,SEA,QB,,,,,,23,14,0,1,0,0,205,9,25,25,3,0,0,92

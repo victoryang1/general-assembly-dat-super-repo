@@ -1,0 +1,3 @@
+name,id,home,team,pos,fumbles_lost,fumbles_rcv,fumbles_tot,fumbles_trcv,fumbles_yds,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,receiving_lng,receiving_rec,receiving_tds,receiving_twopta,receiving_twoptm,receiving_yds,rushing_att,rushing_lng,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+A.Smith,00-0023436,yes,SF,QB,,,,,,35,19,2,2,0,0,144,-6,1,0,0,0,-6,4,5,0,0,0,2
+K.Warner,00-0017200,no,ARI,,1,0,2,0,0,29,16,2,0,0,0,178,,,,,,,,,,,,

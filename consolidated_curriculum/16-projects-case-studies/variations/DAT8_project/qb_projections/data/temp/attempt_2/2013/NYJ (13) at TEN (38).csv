@@ -1,0 +1,4 @@
+name,id,home,team,pos,fumbles_lost,fumbles_rcv,fumbles_tot,fumbles_trcv,fumbles_yds,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+J.Locker,00-0027946,yes,TEN,,,,,,,24,18,0,3,0,0,149,3,11,0,0,0,0,17
+R.Fitzpatrick,00-0023682,yes,TEN,QB,,,,,,8,3,0,1,0,0,108,2,-1,0,0,0,0,-2
+G.Smith,00-0030565,no,NYJ,QB,2,0,2,0,0,34,23,2,1,0,0,289,3,16,0,0,0,0,7

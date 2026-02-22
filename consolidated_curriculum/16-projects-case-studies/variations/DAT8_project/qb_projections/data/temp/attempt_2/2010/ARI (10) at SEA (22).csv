@@ -1,0 +1,4 @@
+name,id,home,team,pos,fumbles_lost,fumbles_rcv,fumbles_tot,fumbles_trcv,fumbles_yds,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+M.Hasselbeck,00-0007091,yes,SEA,QB,1,0,1,0,0,38,20,0,1,0,0,192,2,12,0,0,0,0,11
+D.Anderson,00-0023645,no,ARI,QB,,,,,,17,8,0,0,0,0,96,,,,,,,
+M.Hall,00-0027347,no,ARI,,1,0,1,0,0,16,4,1,0,0,0,36,,,,,,,

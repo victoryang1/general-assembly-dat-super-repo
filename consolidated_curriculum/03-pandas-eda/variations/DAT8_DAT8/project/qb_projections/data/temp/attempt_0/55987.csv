@@ -1,0 +1,4 @@
+name,id,home,team,pos,fumbles_lost,fumbles_rcv,fumbles_tot,fumbles_trcv,fumbles_yds,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,receiving_lng,receiving_lngtd,receiving_rec,receiving_tds,receiving_twopta,receiving_twoptm,receiving_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+A.Dalton,00-0027973,yes,CIN,QB,,,,,,27,13,2,3,0,0,93,,,,,,,,4,1,0,0,0,0,0
+M.Sanu,00-0029632,yes,CIN,WR,,,,,,1,1,0,0,0,0,25,6,6,2,1,0,0,11,,,,,,,
+J.Campbell,00-0023460,no,CLE,,0,0,1,0,0,56,27,3,1,0,0,248,,,,,,,,,,,,,,

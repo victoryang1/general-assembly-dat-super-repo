@@ -1,0 +1,4 @@
+name,id,home,team,pos,fumbles_lost,fumbles_rcv,fumbles_tot,fumbles_trcv,fumbles_yds,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+B.Gabbert,00-0027948,yes,JAC,QB,0,1,2,1,-2,33,19,2,2,0,0,217,4,0,0,0,0,0,-3
+J.Johnson,00-0026300,no,TB,,,,,,,2,1,1,0,0,0,3,,,,,,,
+J.Freeman,00-0026993,no,TB,,1,0,2,0,0,30,16,2,0,0,0,181,4,13,13,1,0,0,26

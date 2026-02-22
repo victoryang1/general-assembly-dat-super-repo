@@ -1,0 +1,4 @@
+name,id,home,team,pos,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,receiving_lng,receiving_rec,receiving_tds,receiving_twopta,receiving_twoptm,receiving_yds,rushing_att,rushing_lng,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+J.Addai,00-0024245,yes,IND,,1,1,0,1,0,0,22,2,2,0,0,0,4,20,13,0,0,0,62
+P.Manning,00-0010346,yes,IND,QB,48,31,0,0,1,0,347,,,,,,,,,,,,
+A.Smith,00-0023436,no,SF,QB,32,19,1,1,0,0,198,,,,,,,1,10,0,0,0,10

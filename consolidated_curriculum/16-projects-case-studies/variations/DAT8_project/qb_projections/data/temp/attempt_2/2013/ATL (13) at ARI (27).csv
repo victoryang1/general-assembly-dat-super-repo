@@ -1,0 +1,3 @@
+name,id,home,team,pos,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+C.Palmer,00-0021429,yes,ARI,QB,18,13,1,2,0,0,172,1,9,0,0,0,0,9
+M.Ryan,00-0026143,no,ATL,QB,61,34,4,1,0,0,301,1,13,0,0,0,0,13

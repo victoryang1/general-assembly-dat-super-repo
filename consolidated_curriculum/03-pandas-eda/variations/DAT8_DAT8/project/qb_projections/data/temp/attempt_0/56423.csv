@@ -1,0 +1,4 @@
+name,id,home,team,pos,fumbles_lost,fumbles_rcv,fumbles_tot,fumbles_trcv,fumbles_yds,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+B.Osweiler,00-0029682,yes,DEN,QB,,,,,,2,2,0,1,0,0,39,1,-1,0,0,0,0,-1
+P.Manning,00-0010346,yes,DEN,QB,1,0,1,0,0,37,21,0,0,0,0,273,1,-5,0,0,0,0,-5
+D.Carr,00-0031280,no,OAK,QB,1,0,2,0,-21,36,18,1,1,0,0,158,3,5,0,0,0,0,6

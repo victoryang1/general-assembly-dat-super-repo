@@ -1,0 +1,3 @@
+name,id,home,team,pos,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+A.Smith,00-0023436,yes,SF,QB,23,14,1,1,0,0,140,5,8,0,0,0,0,11
+R.Wilson,00-0029263,no,SEA,QB,23,9,1,0,0,0,122,3,9,0,0,0,0,10

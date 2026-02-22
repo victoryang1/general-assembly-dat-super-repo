@@ -1,0 +1,4 @@
+name,id,home,team,pos,fumbles_lost,fumbles_rcv,fumbles_tot,fumbles_trcv,fumbles_yds,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+J.Johnson,00-0026300,yes,TB,,,,,,,6,6,0,0,0,0,67,1,7,0,0,0,0,7
+J.Freeman,00-0026993,yes,TB,,0,1,0,1,0,31,20,1,0,0,0,184,6,11,0,0,0,0,15
+C.Batch,00-0000865,no,PIT,,,,,,,17,12,2,3,0,0,186,5,24,0,0,0,0,26

@@ -1,0 +1,4 @@
+name,id,home,team,pos,fumbles_lost,fumbles_rcv,fumbles_tot,fumbles_trcv,fumbles_yds,kickret_avg,kickret_lng,kickret_lngtd,kickret_ret,kickret_tds,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,receiving_lng,receiving_lngtd,receiving_rec,receiving_tds,receiving_twopta,receiving_twoptm,receiving_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+G.Smith,00-0030565,yes,NYJ,QB,,,,,,,,,,,19,8,0,0,0,0,115,,,,,,,,6,6,3,1,0,0,18
+J.Cribbs,00-0023176,yes,NYJ,,,,,,,26,42,0,5,0,1,1,0,0,0,0,25,5,0,2,0,0,0,6,3,9,0,0,0,0,12
+D.Brees,00-0020531,no,NO,QB,0,0,1,0,0,,,,,,51,30,2,2,0,0,382,,,,,,,,1,-1,0,0,0,0,-1

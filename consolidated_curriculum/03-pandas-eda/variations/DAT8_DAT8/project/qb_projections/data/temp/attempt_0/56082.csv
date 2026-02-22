@@ -1,0 +1,4 @@
+name,id,home,team,pos,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,receiving_lng,receiving_lngtd,receiving_rec,receiving_tds,receiving_twopta,receiving_twoptm,receiving_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+R.Tannehill,00-0029701,yes,MIA,QB,40,20,3,1,0,0,204,,,,,,,,2,20,0,0,0,0,19
+G.Smith,00-0030565,no,NYJ,QB,27,17,0,0,0,0,190,,,,,,,,10,12,7,1,0,0,44
+B.Powell,00-0028064,no,NYJ,RB,1,1,0,0,0,0,30,-4,0,1,0,0,0,-4,21,13,0,0,0,0,76

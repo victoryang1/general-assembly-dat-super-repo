@@ -1,0 +1,3 @@
+name,id,home,team,pos,fumbles_lost,fumbles_rcv,fumbles_tot,fumbles_trcv,fumbles_yds,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds
+J.Cutler,00-0024226,yes,CHI,QB,0,1,1,1,0,32,22,1,2,0,0,312
+M.Ryan,00-0026143,no,ATL,QB,1,0,1,0,0,47,31,1,0,0,0,319

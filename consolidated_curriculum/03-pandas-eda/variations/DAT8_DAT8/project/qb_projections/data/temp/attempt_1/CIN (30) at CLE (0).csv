@@ -1,0 +1,3 @@
+name,id,home,team,pos,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+J.Manziel,00-0031409,yes,CLE,QB,18,10,2,0,0,0,80,5,10,0,0,0,0,13
+A.Dalton,00-0027973,no,CIN,QB,24,14,1,0,0,0,117,2,2,0,0,0,0,3

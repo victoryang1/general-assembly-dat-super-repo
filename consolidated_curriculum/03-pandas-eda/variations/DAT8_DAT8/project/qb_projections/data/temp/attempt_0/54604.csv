@@ -1,0 +1,5 @@
+name,id,home,team,pos,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,punting_avg,punting_i20,punting_lng,punting_pts,punting_yds,rushing_att,rushing_lng,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+J.Campbell,00-0023460,yes,WAS,,26,17,0,1,0,0,193,,,,,,2,13,0,0,0,15
+H.Smith,00-0015194,yes,WAS,,1,1,0,1,0,0,35,38,1,44,4,152,,,,,,
+C.Simms,00-0022005,no,DEN,,13,3,1,0,0,0,13,,,,,,,,,,,
+K.Orton,00-0023541,no,DEN,,18,11,0,2,0,0,193,,,,,,1,3,0,0,0,3

@@ -1,0 +1,4 @@
+name,id,home,team,pos,fumbles_lost,fumbles_rcv,fumbles_tot,fumbles_trcv,fumbles_yds,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+R.Fitzpatrick,00-0023682,yes,BUF,QB,,,,,,25,16,0,3,0,0,155,1,7,0,0,0,7
+P.Manning,00-0010346,no,IND,QB,,,,,,18,14,1,0,0,0,95,,,,,,
+C.Painter,00-0027134,no,IND,,1,0,1,0,0,17,4,1,0,0,0,39,2,10,0,0,0,1

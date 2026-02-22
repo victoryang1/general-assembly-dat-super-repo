@@ -1,0 +1,4 @@
+name,id,home,team,pos,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,receiving_lng,receiving_lngtd,receiving_rec,receiving_tds,receiving_twopta,receiving_twoptm,receiving_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+D.McNabb,00-0011022,yes,WAS,,32,15,0,0,0,0,171,,,,,,,,1,17,0,0,0,0,17
+M.Barber,00-0023544,no,DAL,,1,0,0,0,0,0,0,2,0,2,0,0,0,1,8,12,0,0,0,0,39
+T.Romo,00-0021678,no,DAL,QB,47,31,0,1,0,0,282,,,,,,,,,,,,,,

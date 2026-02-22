@@ -1,0 +1,3 @@
+name,id,home,team,pos,fumbles_lost,fumbles_rcv,fumbles_tot,fumbles_trcv,fumbles_yds,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+J.Flacco,00-0026158,yes,BAL,QB,0,1,1,1,-7,27,17,1,2,0,0,270,3,0,0,0,0,0,-2
+A.Dalton,00-0027973,no,CIN,QB,0,0,1,0,0,45,24,3,1,0,0,373,4,11,0,0,0,0,32

@@ -1,0 +1,5 @@
+name,id,home,team,pos,fumbles_lost,fumbles_rcv,fumbles_tot,fumbles_trcv,fumbles_yds,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+R.Wilson,00-0029263,yes,SEA,QB,,,,,,13,7,1,1,0,0,148,3,6,0,0,0,0,12
+M.Flynn,00-0026349,yes,SEA,,,,,,,9,5,0,0,0,0,68,1,-2,0,0,0,0,-2
+R.Lindley,00-0029531,no,ARI,,1,0,1,0,0,17,8,0,0,0,0,59,1,-2,0,0,0,0,-2
+J.Skelton,00-0027754,no,ARI,,1,1,2,1,-1,22,11,4,0,0,0,74,2,2,0,0,0,0,2

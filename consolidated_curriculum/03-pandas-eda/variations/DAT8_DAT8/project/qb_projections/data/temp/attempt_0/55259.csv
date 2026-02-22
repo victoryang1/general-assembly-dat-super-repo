@@ -1,0 +1,4 @@
+name,id,home,team,pos,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+M.Spurlock,00-0023968,yes,TB,,1,0,0,0,0,0,0,,,,,,,
+J.Freeman,00-0026993,yes,TB,,51,29,4,2,1,0,264,,,,,,,
+J.Cutler,00-0024226,no,CHI,QB,32,17,2,1,0,0,226,1,-1,0,0,0,0,-1

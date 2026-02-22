@@ -1,0 +1,3 @@
+name,id,home,team,pos,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+B.Weeden,00-0029677,yes,CLE,QB,26,17,1,1,0,0,158,2,4,0,0,0,0,8
+C.Batch,00-0000865,no,PIT,,34,20,3,0,0,0,199,,,,,,,

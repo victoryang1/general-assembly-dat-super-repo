@@ -1,0 +1,5 @@
+name,id,home,team,pos,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,receiving_lng,receiving_lngtd,receiving_rec,receiving_tds,receiving_twopta,receiving_twoptm,receiving_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+C.Newton,00-0027939,yes,CAR,QB,29,18,1,1,0,0,170,,,,,,,,12,29,3,1,0,0,60
+T.Pryor,00-0028825,no,OAK,,1,1,0,0,0,0,5,22,0,1,0,0,0,22,1,2,0,0,0,0,2
+C.Palmer,00-0021429,no,OAK,QB,3,3,0,0,0,0,31,,,,,,,,,,,,,,
+M.Leinart,00-0024225,no,OAK,,32,16,1,0,0,0,115,,,,,,,,,,,,,,

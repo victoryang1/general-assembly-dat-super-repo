@@ -1,0 +1,4 @@
+name,id,home,team,pos,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+C.Redman,00-0019709,yes,ATL,,34,23,1,1,0,0,303,,,,,,
+D.Brees,00-0020531,no,NO,QB,40,31,0,3,0,0,296,2,-1,0,0,0,-2
+M.Brunell,00-0002110,no,NO,,1,0,0,0,0,0,0,,,,,,

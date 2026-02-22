@@ -1,0 +1,3 @@
+name,id,home,team,pos,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+P.Manning,00-0010346,yes,DEN,QB,20,14,2,0,0,0,173,2,-1,0,0,0,0,-2
+K.Orton,00-0023541,no,BUF,,57,38,2,1,0,0,355,1,1,1,1,0,0,1

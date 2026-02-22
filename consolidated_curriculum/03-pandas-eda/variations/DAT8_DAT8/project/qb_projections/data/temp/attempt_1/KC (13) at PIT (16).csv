@@ -1,0 +1,4 @@
+name,id,home,team,pos,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+B.Leftwich,00-0022177,yes,PIT,,14,7,0,0,0,0,73,,,,,,,
+B.Roethlisberger,00-0022924,yes,PIT,QB,18,9,0,1,0,0,84,1,14,0,0,0,0,14
+M.Cassel,00-0023662,no,KC,QB,26,11,1,0,0,0,154,2,9,0,0,0,0,12

@@ -1,0 +1,4 @@
+name,id,home,team,pos,fumbles_lost,fumbles_rcv,fumbles_tot,fumbles_trcv,fumbles_yds,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+J.Delhomme,00-0004161,yes,CLE,,0,0,1,0,0,23,13,2,0,0,0,97,1,0,0,0,0,0,0
+S.Wallace,00-0022055,yes,CLE,,,,,,,15,11,0,1,0,0,139,,,,,,,
+M.Ryan,00-0026143,no,ATL,QB,1,0,1,0,0,28,16,0,1,0,0,187,5,7,0,0,0,0,5

@@ -1,0 +1,5 @@
+name,id,home,team,pos,fumbles_lost,fumbles_rcv,fumbles_tot,fumbles_trcv,fumbles_yds,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,receiving_lng,receiving_rec,receiving_tds,receiving_twopta,receiving_twoptm,receiving_yds,rushing_att,rushing_lng,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+K.Boller,00-0022164,yes,STL,,1,0,1,0,0,31,20,1,0,0,0,209,,,,,,,3,1,0,0,0,1
+M.Bulger,00-0019599,yes,STL,,,,,,,7,7,0,1,0,0,88,,,,,,,,,,,,
+T.Jackson,00-0024279,no,MIN,QB,,,,,,3,3,0,0,0,0,68,,,,,,,,,,,,
+B.Favre,00-0005106,no,MIN,,,,,,,24,18,1,1,0,0,232,-2,1,0,0,0,-2,,,,,,
