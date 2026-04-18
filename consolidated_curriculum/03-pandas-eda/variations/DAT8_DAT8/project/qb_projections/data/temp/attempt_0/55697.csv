@@ -1,0 +1,4 @@
+name,id,home,team,pos,fumbles_lost,fumbles_rcv,fumbles_tot,fumbles_trcv,fumbles_yds,kicking_fga,kicking_fgm,kicking_fgyds,kicking_totpfg,kicking_xpa,kicking_xpb,kicking_xpmade,kicking_xpmissed,kicking_xptot,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+R.Fitzpatrick,00-0023682,yes,BUF,QB,0,1,1,1,0,,,,,,,,,,32,25,1,1,0,0,247,3,3,0,0,0,0,5
+R.Lindell,00-0019310,yes,BUF,,,,,,,2,2,40,6,0,0,0,0,0,1,0,0,0,1,0,0,,,,,,,
+S.Bradford,00-0027854,no,STL,QB,0,1,1,1,0,,,,,,,,,,39,19,1,1,1,1,209,4,11,0,0,0,0,13

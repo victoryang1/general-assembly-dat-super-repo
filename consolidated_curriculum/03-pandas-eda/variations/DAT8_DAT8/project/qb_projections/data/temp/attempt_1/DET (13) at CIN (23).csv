@@ -1,0 +1,4 @@
+name,id,home,team,pos,fumbles_lost,fumbles_rcv,fumbles_tot,fumbles_trcv,fumbles_yds,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+C.Palmer,00-0021429,yes,CIN,QB,1,0,1,0,0,29,17,2,1,0,0,220,5,8,0,0,0,7
+M.Stafford,00-0026498,no,DET,QB,,,,,,26,11,2,1,0,0,143,3,4,0,0,0,-2
+D.Culpepper,00-0003739,no,DET,,,,,,,3,2,0,0,1,0,49,1,7,0,0,0,7

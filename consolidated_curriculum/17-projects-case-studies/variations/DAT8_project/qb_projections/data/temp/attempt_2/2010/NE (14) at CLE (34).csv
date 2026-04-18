@@ -1,0 +1,4 @@
+name,id,home,team,pos,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+C.McCoy,00-0027688,yes,CLE,QB,19,14,0,0,0,0,174,3,16,16,1,0,0,20
+B.Hoyer,00-0026625,no,NE,QB,2,0,1,0,0,0,0,1,-1,0,0,0,0,-1
+T.Brady,00-0019596,no,NE,QB,36,19,0,2,0,0,224,1,1,0,0,0,0,1

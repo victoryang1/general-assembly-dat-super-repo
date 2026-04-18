@@ -1,0 +1,3 @@
+name,id,home,team,pos,fumbles_lost,fumbles_rcv,fumbles_tot,fumbles_trcv,fumbles_yds,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+D.Anderson,00-0023645,yes,ARI,QB,,,,,,26,12,1,2,0,0,122,,,,,,,
+B.Gradkowski,00-0024408,no,OAK,QB,0,1,1,1,0,34,17,1,1,0,0,255,4,8,0,0,0,0,13

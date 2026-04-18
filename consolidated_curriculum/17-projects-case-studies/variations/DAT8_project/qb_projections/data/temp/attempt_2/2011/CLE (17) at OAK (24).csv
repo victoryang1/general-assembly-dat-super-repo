@@ -1,0 +1,4 @@
+name,id,home,team,pos,fumbles_lost,fumbles_rcv,fumbles_tot,fumbles_trcv,fumbles_yds,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+J.Campbell,00-0023460,yes,OAK,,1,0,1,0,0,9,6,0,0,0,0,52,2,9,0,0,0,0,16
+K.Boller,00-0022164,yes,OAK,,0,1,2,1,-5,14,8,0,0,0,0,100,5,5,0,0,0,0,9
+C.McCoy,00-0027688,no,CLE,QB,1,0,1,0,0,45,21,0,2,0,0,215,4,9,0,0,0,0,16

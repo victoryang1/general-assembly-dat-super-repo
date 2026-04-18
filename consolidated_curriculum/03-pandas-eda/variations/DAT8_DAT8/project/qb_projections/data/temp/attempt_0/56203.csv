@@ -1,0 +1,4 @@
+name,id,home,team,pos,fumbles_lost,fumbles_rcv,fumbles_tot,fumbles_trcv,fumbles_yds,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,receiving_lng,receiving_lngtd,receiving_rec,receiving_tds,receiving_twopta,receiving_twoptm,receiving_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+F.Jackson,00-0024204,yes,BUF,RB,,,,,,1,0,0,0,0,0,0,21,11,8,1,0,0,78,6,17,0,0,0,0,34
+E.Manuel,00-0030526,yes,BUF,QB,0,1,1,1,0,39,23,0,1,0,0,238,,,,,,,,5,8,0,0,0,0,24
+P.Rivers,00-0022942,no,SD,QB,,,,,,25,18,0,2,0,0,256,,,,,,,,2,9,0,0,0,0,11

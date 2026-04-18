@@ -1,0 +1,4 @@
+name,id,home,team,pos,fumbles_lost,fumbles_rcv,fumbles_tot,fumbles_trcv,fumbles_yds,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+A.Luck,00-0029668,yes,IND,QB,,,,,,34,18,1,2,0,0,187,8,8,0,0,0,0,18
+R.Fitzpatrick,00-0023682,no,HOU,QB,,,,,,6,3,0,0,0,0,30,3,12,0,0,0,0,16
+T.Savage,00-0031064,no,HOU,QB,1,1,2,1,-8,19,10,1,0,0,0,127,4,1,0,0,0,0,-4

@@ -1,0 +1,4 @@
+name,id,home,team,pos,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+B.Quinn,00-0025409,yes,KC,,25,13,1,0,0,0,126,1,-1,0,0,0,0,-1
+P.Hillis,00-0026367,yes,KC,,1,0,0,0,0,0,0,2,3,0,0,0,0,5
+P.Manning,00-0010346,no,DEN,QB,37,22,1,2,0,0,285,1,1,0,0,0,0,1

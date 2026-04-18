@@ -1,0 +1,4 @@
+name,id,home,team,pos,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+P.Rivers,00-0022942,yes,SD,QB,36,27,1,2,0,0,305,2,4,0,0,0,0,3
+V.Young,00-0024218,no,TEN,,21,10,0,2,1,0,253,2,4,0,0,0,0,3
+K.Collins,00-0003292,no,TEN,,15,8,0,0,0,0,52,,,,,,,

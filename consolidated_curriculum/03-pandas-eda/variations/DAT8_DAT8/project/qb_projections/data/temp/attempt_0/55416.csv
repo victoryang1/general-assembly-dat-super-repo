@@ -1,0 +1,6 @@
+name,id,home,team,pos,kicking_fga,kicking_fgm,kicking_fgyds,kicking_totpfg,kicking_xpa,kicking_xpb,kicking_xpmade,kicking_xpmissed,kicking_xptot,kickret_avg,kickret_lng,kickret_lngtd,kickret_ret,kickret_tds,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+T.Brandstater,00-0027121,yes,STL,,,,,,,,,,,,,,,,2,0,0,0,0,0,0,,,,,,,
+K.Clemens,00-0024264,yes,STL,QB,,,,,,,,,,,,,,,31,14,1,1,0,0,226,2,18,18,1,0,0,18
+J.Norwood,00-0024294,yes,STL,,,,,,,,,,,26,35,0,5,0,1,0,1,0,0,0,0,,,,,,,
+D.Akers,00-0000108,no,SF,,3,2,42,6,4,0,4,0,4,,,,,,1,1,0,1,0,0,14,,,,,,,
+Alex Smith,00-0023436,no,SF,QB,,,,,,,,,,,,,,,31,21,0,1,0,0,219,5,8,8,1,0,0,4

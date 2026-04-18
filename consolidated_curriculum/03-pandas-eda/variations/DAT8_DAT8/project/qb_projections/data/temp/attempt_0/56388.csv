@@ -1,0 +1,4 @@
+name,id,home,team,pos,fumbles_lost,fumbles_rcv,fumbles_tot,fumbles_trcv,fumbles_yds,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+E.Manning,00-0022803,yes,NYG,QB,,,,,,34,23,0,3,0,0,250,,,,,,,
+R.Griffin,00-0029665,no,WAS,QB,1,0,3,0,0,27,18,0,1,0,0,236,5,23,0,0,0,0,46
+C.McCoy,00-0027688,no,WAS,QB,,,,,,7,4,0,0,0,0,39,2,20,0,0,0,0,24

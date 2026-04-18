@@ -1,0 +1,3 @@
+name,id,home,team,pos,fumbles_lost,fumbles_rcv,fumbles_tot,fumbles_trcv,fumbles_yds,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+C.Pennington,00-0019559,yes,MIA,,0,0,1,0,0,33,22,1,0,0,0,183,1,4,0,0,0,4
+P.Manning,00-0010346,no,IND,QB,,,,,,23,14,0,2,0,0,303,1,3,0,0,0,3

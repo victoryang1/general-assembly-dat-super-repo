@@ -1,0 +1,4 @@
+name,id,home,team,pos,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+J.Flacco,00-0026158,yes,BAL,QB,38,22,2,0,0,0,260,2,1,1,1,0,0,0
+T.Taylor,00-0028118,yes,BAL,QB,4,1,1,0,0,0,2,3,25,0,0,0,0,39
+T.Brady,00-0019596,no,NE,QB,26,14,0,1,0,0,172,,,,,,,

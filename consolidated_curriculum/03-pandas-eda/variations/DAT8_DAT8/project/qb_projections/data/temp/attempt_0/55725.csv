@@ -1,0 +1,4 @@
+name,id,home,team,pos,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+T.Pryor,00-0028825,yes,OAK,,1,0,0,0,0,0,0,,,,,,,
+C.Palmer,00-0021429,yes,OAK,QB,29,18,0,0,0,0,182,2,2,0,0,0,0,4
+B.Quinn,00-0025409,no,KC,,32,18,1,0,0,0,136,,,,,,,

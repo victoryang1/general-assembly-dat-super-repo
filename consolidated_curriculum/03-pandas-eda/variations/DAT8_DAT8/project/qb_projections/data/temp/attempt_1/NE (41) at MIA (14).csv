@@ -1,0 +1,4 @@
+name,id,home,team,pos,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+C.Henne,00-0026197,yes,MIA,QB,39,29,3,2,0,0,302,,,,,,,
+T.Thigpen,00-0025604,yes,MIA,,6,2,1,0,0,0,15,1,12,0,0,0,0,12
+T.Brady,00-0019596,no,NE,QB,24,19,0,1,0,0,153,5,5,0,0,0,0,6

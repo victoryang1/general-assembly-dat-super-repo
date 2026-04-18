@@ -1,0 +1,4 @@
+name,id,home,team,pos,fumbles_lost,fumbles_rcv,fumbles_tot,fumbles_trcv,fumbles_yds,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+M.Cassel,00-0023662,yes,KC,QB,1,0,1,0,0,30,15,0,2,0,0,248,1,-1,0,0,0,-1
+C.Batch,00-0000865,no,PIT,,,,,,,2,1,0,0,0,0,17,,,,,,
+B.Roethlisberger,00-0022924,no,PIT,QB,,,,,,42,32,2,3,0,0,398,1,4,0,0,0,4

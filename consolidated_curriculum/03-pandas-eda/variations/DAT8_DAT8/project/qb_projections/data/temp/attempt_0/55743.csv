@@ -1,0 +1,4 @@
+name,id,home,team,pos,fumbles_lost,fumbles_rcv,fumbles_tot,fumbles_trcv,fumbles_yds,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,puntret_avg,puntret_lng,puntret_lngtd,puntret_ret,puntret_tds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+J.Kerley,00-0028091,yes,NYJ,WR,,,,,,1,1,0,0,0,0,42,9,20,0,2,0,1,2,0,0,0,0,2
+G.McElroy,00-0028146,yes,NYJ,,1,0,1,0,0,24,14,1,0,0,0,185,,,,,,4,15,0,0,0,0,25
+P.Rivers,00-0022942,no,SD,QB,,,,,,22,11,0,2,0,0,165,,,,,,5,8,0,0,0,0,4

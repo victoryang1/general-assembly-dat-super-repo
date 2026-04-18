@@ -1,0 +1,4 @@
+name,id,home,team,pos,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+M.McGloin,00-0030419,yes,OAK,QB,19,12,2,1,0,0,129,2,3,0,0,0,0,3
+D.Carr,00-0031280,yes,OAK,QB,25,16,1,1,0,0,146,2,8,0,0,0,0,9
+R.Tannehill,00-0029701,no,MIA,QB,31,23,1,2,0,0,278,5,18,0,0,0,0,35

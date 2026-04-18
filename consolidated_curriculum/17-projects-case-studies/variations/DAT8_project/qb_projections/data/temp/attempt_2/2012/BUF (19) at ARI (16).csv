@@ -1,0 +1,4 @@
+name,id,home,team,pos,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+K.Kolb,00-0025423,yes,ARI,,26,14,1,1,0,0,128,5,22,0,0,0,0,66
+J.Skelton,00-0027754,yes,ARI,,10,2,1,0,0,0,45,,,,,,,
+R.Fitzpatrick,00-0023682,no,BUF,QB,32,18,0,0,0,0,153,3,4,0,0,0,0,5

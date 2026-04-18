@@ -1,0 +1,3 @@
+name,id,home,team,pos,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+M.Vick,00-0020245,yes,PHI,QB,29,17,0,1,0,0,218,10,32,1,1,0,0,74
+P.Manning,00-0010346,no,IND,QB,52,31,2,1,0,0,294,,,,,,,

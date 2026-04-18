@@ -1,0 +1,4 @@
+name,id,home,team,pos,fumbles_lost,fumbles_rcv,fumbles_tot,fumbles_trcv,fumbles_yds,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+D.Stanton,00-0025430,yes,DET,QB,,,,,,19,10,1,0,0,0,72,3,5,1,0,0,10
+D.Culpepper,00-0003739,yes,DET,,,,,,,12,6,1,0,0,0,64,1,4,0,0,0,4
+K.Warner,00-0017200,no,ARI,,1,0,1,0,0,37,23,1,2,0,0,233,2,-1,0,0,0,-2

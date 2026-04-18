@@ -1,0 +1,4 @@
+name,id,home,team,pos,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,punting_avg,punting_i20,punting_lng,punting_pts,punting_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+J.Hekker,00-0028872,yes,STL,P,1,1,0,0,0,0,18,45,1,56,3,153,,,,,,,
+A.Davis,00-0028957,yes,STL,QB,21,18,0,2,0,0,152,,,,,,2,-1,0,0,0,0,-2
+R.Wilson,00-0029263,no,SEA,QB,36,23,0,2,1,0,313,,,,,,7,52,19,1,0,0,106

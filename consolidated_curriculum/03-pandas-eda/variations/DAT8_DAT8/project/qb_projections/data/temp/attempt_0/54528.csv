@@ -1,0 +1,4 @@
+name,id,home,team,pos,fumbles_lost,fumbles_rcv,fumbles_tot,fumbles_trcv,fumbles_yds,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,receiving_lng,receiving_rec,receiving_tds,receiving_twopta,receiving_twoptm,receiving_yds,rushing_att,rushing_lng,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+S.Rice,00-0025431,yes,MIN,,,,,,,1,0,0,0,0,0,0,24,5,1,0,0,70,,,,,,
+B.Favre,00-0005106,yes,MIN,,,,,,,31,24,0,3,0,0,271,,,,,,,2,-1,0,0,0,-2
+A.Rodgers,00-0023459,no,GB,QB,1,0,1,0,0,37,26,1,2,1,0,384,,,,,,,2,11,0,0,0,16

@@ -1,0 +1,5 @@
+name,id,home,team,pos,fumbles_lost,fumbles_rcv,fumbles_tot,fumbles_trcv,fumbles_yds,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+C.Batch,00-0000865,yes,PIT,,,,,,,2,0,0,0,0,0,0,,,,,,,
+B.Roethlisberger,00-0022924,yes,PIT,QB,,,,,,21,16,1,2,0,0,280,,,,,,,
+C.McCoy,00-0027688,no,CLE,QB,0,0,1,0,0,35,18,2,0,0,0,209,6,5,0,0,0,0,15
+S.Wallace,00-0022055,no,CLE,,,,,,,1,1,0,0,0,0,13,,,,,,,

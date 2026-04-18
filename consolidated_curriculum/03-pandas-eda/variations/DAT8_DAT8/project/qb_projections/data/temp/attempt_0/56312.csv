@@ -1,0 +1,4 @@
+name,id,home,team,pos,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+D.Carr,00-0031280,yes,OAK,QB,47,30,2,2,0,0,192,,,,,,,
+B.Osweiler,00-0029682,no,DEN,QB,5,2,0,0,0,0,13,3,4,0,0,0,0,2
+P.Manning,00-0010346,no,DEN,QB,44,31,2,5,0,0,340,,,,,,,

@@ -1,0 +1,4 @@
+name,id,home,team,pos,fumbles_lost,fumbles_rcv,fumbles_tot,fumbles_trcv,fumbles_yds,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+B.Quinn,00-0025409,yes,CLE,,1,0,1,0,0,45,25,0,3,0,0,271,2,7,0,1,0,8
+P.Rivers,00-0022942,no,SD,QB,,,,,,25,18,0,2,0,0,373,4,3,0,0,0,0
+L.Naanee,00-0025559,no,SD,,,,,,,1,1,0,0,0,0,21,,,,,,

@@ -1,0 +1,5 @@
+name,id,home,team,pos,fumbles_lost,fumbles_rcv,fumbles_tot,fumbles_trcv,fumbles_yds,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+K.Orton,00-0023541,yes,DEN,,0,0,1,0,0,34,19,0,1,0,0,278,4,9,0,0,0,11
+C.Frye,00-0023502,no,OAK,,,,,,,17,9,1,0,0,0,68,1,26,0,0,0,26
+J.Losman,00-0022912,no,OAK,,,,,,,1,0,0,0,0,0,0,,,,,,
+J.Russell,00-0025388,no,OAK,,0,0,1,0,0,11,5,0,1,0,0,47,,,,,,

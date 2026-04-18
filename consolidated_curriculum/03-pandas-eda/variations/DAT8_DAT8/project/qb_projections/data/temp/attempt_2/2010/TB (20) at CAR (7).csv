@@ -1,0 +1,4 @@
+name,id,home,team,pos,fumbles_lost,fumbles_rcv,fumbles_tot,fumbles_trcv,fumbles_yds,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+M.Moore,00-0025708,yes,CAR,QB,1,0,1,0,0,16,6,1,1,0,0,125,1,2,0,0,0,0,2
+J.Clausen,00-0027659,yes,CAR,QB,0,0,1,0,-1,13,7,1,0,0,0,59,1,0,0,0,0,0,0
+J.Freeman,00-0026993,no,TB,,,,,,,24,12,0,2,0,0,178,4,17,0,0,0,0,43

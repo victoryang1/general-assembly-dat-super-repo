@@ -1,0 +1,3 @@
+name,id,home,team,pos,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+D.McNabb,00-0011022,yes,MIN,,30,18,0,0,0,0,228,4,13,0,0,0,0,12
+J.Freeman,00-0026993,no,TB,,31,22,1,1,0,0,243,3,12,0,0,0,0,16

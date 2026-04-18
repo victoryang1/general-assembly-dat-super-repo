@@ -1,0 +1,4 @@
+name,id,home,team,pos,fumbles_lost,fumbles_rcv,fumbles_tot,fumbles_trcv,fumbles_yds,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+B.Gradkowski,00-0024408,yes,OAK,QB,,,,,,8,4,2,0,0,0,46,1,9,0,0,0,9
+J.Russell,00-0025388,yes,OAK,,,,,,,24,9,0,0,0,0,67,,,,,,
+M.Cassel,00-0023662,no,KC,QB,1,0,2,0,-3,34,19,1,0,0,0,216,4,0,0,0,0,-3

@@ -1,0 +1,3 @@
+name,id,home,team,pos,fumbles_lost,fumbles_rcv,fumbles_tot,fumbles_trcv,fumbles_yds,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+E.Manning,00-0022803,yes,NYG,QB,,,,,,40,29,1,3,0,0,338,,,,,,,
+T.Romo,00-0021678,no,DAL,QB,1,0,1,0,0,26,18,0,4,0,0,275,1,-2,0,0,0,0,-2

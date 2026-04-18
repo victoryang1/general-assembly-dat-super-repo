@@ -1,0 +1,3 @@
+name,id,home,team,pos,fumbles_lost,fumbles_rcv,fumbles_tot,fumbles_trcv,fumbles_yds,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+E.Manuel,00-0030526,yes,BUF,QB,0,1,1,1,0,39,23,0,1,0,0,238,5,8,0,0,0,0,24
+P.Rivers,00-0022942,no,SD,QB,,,,,,25,18,0,2,0,0,256,2,9,0,0,0,0,11

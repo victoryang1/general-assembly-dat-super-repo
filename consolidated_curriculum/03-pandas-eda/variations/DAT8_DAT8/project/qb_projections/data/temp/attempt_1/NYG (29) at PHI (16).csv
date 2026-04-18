@@ -1,0 +1,4 @@
+name,id,home,team,pos,fumbles_lost,fumbles_rcv,fumbles_tot,fumbles_trcv,fumbles_yds,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+M.Vick,00-0020245,yes,PHI,QB,0,2,3,2,0,23,16,1,0,0,0,176,7,10,0,0,0,0,31
+M.Kafka,00-0027722,yes,PHI,,,,,,,7,4,2,0,0,0,35,,,,,,,
+E.Manning,00-0022803,no,NYG,QB,,,,,,23,16,0,4,0,0,254,3,-1,0,0,0,0,-3

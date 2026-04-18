@@ -1,0 +1,4 @@
+name,id,home,team,pos,fumbles_lost,fumbles_rcv,fumbles_tot,fumbles_trcv,fumbles_yds,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+C.Henne,00-0026197,yes,JAC,QB,,,,,,6,3,0,0,0,0,36,,,,,,,
+B.Gabbert,00-0027948,yes,JAC,QB,,,,,,35,16,2,0,0,0,121,4,7,0,0,0,0,16
+A.Smith,00-0023436,no,KC,QB,0,0,1,0,-7,34,21,0,2,0,0,173,4,13,0,0,0,0,25

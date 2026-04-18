@@ -1,0 +1,4 @@
+name,id,home,team,pos,fumbles_lost,fumbles_rcv,fumbles_tot,fumbles_trcv,fumbles_yds,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+G.Smith,00-0030565,yes,NYJ,QB,,,,,,25,16,1,1,0,0,219,5,32,8,1,0,0,50
+M.McGloin,00-0030419,no,OAK,QB,0,2,2,2,-1,31,18,1,2,0,0,245,2,20,0,0,0,0,20
+T.Pryor,00-0028825,no,OAK,,,,,,,5,2,0,0,0,0,20,3,8,0,0,0,0,4

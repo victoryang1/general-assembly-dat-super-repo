@@ -1,0 +1,4 @@
+name,id,home,team,pos,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+T.Jackson,00-0024279,yes,SEA,QB,40,21,1,0,1,0,323,1,2,0,0,0,0,2
+C.Whitehurst,00-0024296,yes,SEA,QB,7,4,0,0,0,0,52,1,1,0,0,0,0,1
+A.Dalton,00-0027973,no,CIN,QB,29,18,2,2,0,0,168,2,3,0,0,0,0,3

@@ -1,0 +1,4 @@
+name,id,home,team,pos,defense_ast,defense_ffum,defense_int,defense_sk,defense_tkl,fumbles_lost,fumbles_rcv,fumbles_tot,fumbles_trcv,fumbles_yds,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+T.Lewis,00-0027253,yes,BUF,,,,,,,,,,,,25,15,1,0,0,0,193,8,7,0,0,0,0,13
+Mat.Moore,00-0025708,no,MIA,QB,1,0,0,0,0,0,1,1,1,0,6,2,2,0,0,0,53,,,,,,,
+R.Tannehill,00-0029701,no,MIA,QB,,,,,,,,,,,27,10,0,0,0,0,82,,,,,,,

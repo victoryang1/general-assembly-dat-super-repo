@@ -1,0 +1,3 @@
+name,id,home,team,pos,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+A.Rodgers,00-0023459,yes,GB,QB,29,19,0,2,0,0,255,5,12,9,1,0,0,20
+T.Edwards,00-0025479,no,BUF,,18,11,2,0,0,0,102,3,7,0,0,0,0,12

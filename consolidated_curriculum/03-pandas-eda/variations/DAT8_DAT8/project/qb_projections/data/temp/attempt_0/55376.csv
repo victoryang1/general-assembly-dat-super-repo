@@ -1,0 +1,4 @@
+name,id,home,team,pos,fumbles_lost,fumbles_rcv,fumbles_tot,fumbles_trcv,fumbles_yds,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,puntret_avg,puntret_lng,puntret_lngtd,puntret_ret,puntret_tds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+T.Yates,00-0028090,yes,HOU,,0,0,1,0,-5,30,19,2,0,0,0,212,,,,,,2,15,0,0,0,0,15
+A.Edwards,00-0027692,no,CAR,,,,,,,1,1,0,0,0,0,11,1,1,0,1,0,,,,,,,
+C.Newton,00-0027939,no,CAR,QB,,,,,,23,13,0,2,0,0,149,,,,,,7,17,0,0,0,0,55

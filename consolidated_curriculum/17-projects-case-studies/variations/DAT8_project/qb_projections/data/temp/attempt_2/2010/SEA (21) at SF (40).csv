@@ -1,0 +1,3 @@
+name,id,home,team,pos,fumbles_lost,fumbles_rcv,fumbles_tot,fumbles_trcv,fumbles_yds,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+A.Smith,00-0023436,yes,SF,QB,,,,,,27,17,0,3,0,0,255,4,9,0,0,0,0,12
+M.Hasselbeck,00-0007091,no,SEA,QB,1,1,2,1,0,42,27,4,2,0,0,285,1,5,0,0,0,0,5

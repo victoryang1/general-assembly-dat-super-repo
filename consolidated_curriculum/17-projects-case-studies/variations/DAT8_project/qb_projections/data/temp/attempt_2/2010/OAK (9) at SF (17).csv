@@ -1,0 +1,3 @@
+name,id,home,team,pos,fumbles_lost,fumbles_rcv,fumbles_tot,fumbles_trcv,fumbles_yds,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+A.Smith,00-0023436,yes,SF,QB,,,,,,33,16,0,2,0,0,196,4,1,0,0,0,0,-2
+J.Campbell,00-0023460,no,OAK,,0,0,1,0,0,21,8,2,0,0,0,83,7,9,0,0,0,0,21

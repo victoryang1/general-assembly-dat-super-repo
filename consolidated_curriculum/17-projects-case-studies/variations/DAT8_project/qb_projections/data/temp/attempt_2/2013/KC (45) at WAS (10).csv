@@ -1,0 +1,5 @@
+name,id,home,team,pos,fumbles_lost,fumbles_rcv,fumbles_tot,fumbles_trcv,fumbles_yds,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+R.Griffin,00-0029665,yes,WAS,QB,,,,,,26,12,1,1,0,0,164,4,18,0,0,0,0,29
+K.Cousins,00-0029604,yes,WAS,QB,0,0,1,0,0,16,7,0,0,0,0,59,,,,,,,
+C.Daniel,00-0026544,no,KC,QB,,,,,,3,1,1,0,0,0,17,3,-1,0,0,0,0,-3
+A.Smith,00-0023436,no,KC,QB,,,,,,20,14,0,2,0,0,137,2,4,0,0,0,0,7

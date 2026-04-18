@@ -1,0 +1,3 @@
+name,id,home,team,pos,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+C.Palmer,00-0021429,yes,CIN,QB,37,20,0,1,2,1,183,1,1,0,0,0,1
+B.Roethlisberger,00-0022924,no,PIT,QB,31,22,1,1,0,0,276,2,2,1,0,0,3

@@ -1,0 +1,3 @@
+name,id,home,team,pos,fumbles_lost,fumbles_rcv,fumbles_tot,fumbles_trcv,fumbles_yds,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+R.Tannehill,00-0029701,yes,MIA,QB,1,0,1,0,0,37,19,2,3,0,0,194,3,3,0,0,0,0,5
+T.Lewis,00-0027253,no,BUF,,0,1,2,1,-5,32,21,1,0,0,0,202,5,8,0,0,0,0,13

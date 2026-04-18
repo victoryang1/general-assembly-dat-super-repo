@@ -1,0 +1,6 @@
+name,id,home,team,pos,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,punting_avg,punting_i20,punting_lng,punting_pts,punting_yds,receiving_lng,receiving_lngtd,receiving_rec,receiving_tds,receiving_twopta,receiving_twoptm,receiving_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+M.Glennon,00-0030520,yes,TB,QB,23,20,0,2,0,0,231,,,,,,,,,,,,,1,4,0,0,0,0,4
+M.Koenen,00-0023234,yes,TB,,1,0,0,0,0,0,0,33,2,46,4,168,,,,,,,,,,,,,,
+B.Rainey,00-0029384,yes,TB,RB,1,0,0,0,0,0,0,,,,,,4,4,2,1,0,0,4,30,43,43,2,0,0,163
+Dom.Davis,00-0028863,no,ATL,,7,5,0,0,1,1,34,,,,,,,,,,,,,,,,,,,
+M.Ryan,00-0026143,no,ATL,QB,36,19,2,2,0,0,254,,,,,,,,,,,,,,,,,,,

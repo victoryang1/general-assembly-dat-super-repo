@@ -1,0 +1,3 @@
+name,id,home,team,pos,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+P.Manning,00-0010346,yes,IND,QB,38,28,1,1,0,0,301,3,-1,0,0,0,-4
+D.Garrard,00-0021231,no,JAC,,28,14,0,0,0,0,122,4,7,0,0,0,14

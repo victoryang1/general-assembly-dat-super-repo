@@ -1,0 +1,4 @@
+name,id,home,team,pos,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+J.Palmer,00-0025592,yes,CIN,,3,3,0,0,0,0,18,,,,,,,
+C.Palmer,00-0021429,yes,CIN,QB,34,19,2,2,0,0,230,2,9,0,0,0,0,12
+R.Fitzpatrick,00-0023682,no,BUF,QB,34,21,2,4,0,0,316,1,11,0,0,0,0,11

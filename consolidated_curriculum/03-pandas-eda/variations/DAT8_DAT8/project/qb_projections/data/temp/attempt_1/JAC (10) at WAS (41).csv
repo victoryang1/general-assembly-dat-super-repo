@@ -1,0 +1,4 @@
+name,id,home,team,pos,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+R.Griffin,00-0029665,yes,WAS,QB,3,2,0,0,0,0,38,2,12,0,0,0,0,22
+K.Cousins,00-0029604,yes,WAS,QB,33,22,0,2,0,0,250,1,-1,0,0,0,0,-1
+C.Henne,00-0026197,no,JAC,QB,28,14,1,1,0,0,193,3,12,0,0,0,0,17

@@ -1,0 +1,3 @@
+name,id,home,team,pos,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+A.Smith,00-0023436,yes,KC,QB,25,16,2,0,0,0,191,3,11,0,0,0,0,15
+P.Manning,00-0010346,no,DEN,QB,45,26,1,3,0,0,256,,,,,,,

@@ -1,0 +1,4 @@
+name,id,home,team,pos,fumbles_lost,fumbles_rcv,fumbles_tot,fumbles_trcv,fumbles_yds,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,punting_avg,punting_i20,punting_lng,punting_pts,punting_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+C.Palmer,00-0021429,yes,OAK,QB,,,,,,61,39,3,4,1,1,414,,,,,,1,3,0,0,0,0,3
+S.Lechler,00-0019714,yes,OAK,P,,,,,,1,1,0,0,0,0,4,43,1,58,4,218,,,,,,,
+J.Freeman,00-0026993,no,TB,,1,0,2,0,-8,30,18,0,2,0,0,247,,,,,,5,13,0,0,0,0,22

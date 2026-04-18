@@ -1,0 +1,4 @@
+name,id,home,team,pos,fumbles_lost,fumbles_rcv,fumbles_tot,fumbles_trcv,fumbles_yds,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+P.Manning,00-0010346,yes,DEN,QB,1,1,2,1,-2,37,32,0,3,0,0,374,3,0,0,0,0,0,-2
+T.Pryor,00-0028825,no,OAK,,0,1,0,1,0,28,19,0,1,0,0,281,4,23,0,0,0,0,36
+M.Flynn,00-0026349,no,OAK,,,,,,,2,1,0,0,0,0,19,,,,,,,

@@ -1,0 +1,4 @@
+name,id,home,team,pos,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+P.Rivers,00-0022942,yes,SD,QB,29,22,2,3,0,0,334,,,,,,,
+D.Garrard,00-0021231,no,JAC,,23,15,4,1,0,0,173,1,-1,0,0,0,0,-1
+L.McCown,00-0022864,no,JAC,QB,19,11,0,0,0,0,120,1,4,0,0,0,0,4

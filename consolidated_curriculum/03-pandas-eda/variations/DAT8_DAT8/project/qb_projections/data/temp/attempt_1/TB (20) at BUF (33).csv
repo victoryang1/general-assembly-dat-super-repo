@@ -1,0 +1,3 @@
+name,id,home,team,pos,fumbles_lost,fumbles_rcv,fumbles_tot,fumbles_trcv,fumbles_yds,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+T.Edwards,00-0025479,yes,BUF,,,,,,,31,21,1,2,0,0,230,3,20,0,0,0,24
+B.Leftwich,00-0022177,no,TB,,0,0,1,0,-1,50,26,2,3,1,0,296,1,0,0,0,0,0

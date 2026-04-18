@@ -1,0 +1,4 @@
+name,id,home,team,pos,fumbles_lost,fumbles_rcv,fumbles_tot,fumbles_trcv,fumbles_yds,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+A.Rodgers,00-0023459,yes,GB,QB,0,2,1,2,-7,41,26,0,3,1,0,287,5,35,0,0,0,52
+M.Flynn,00-0026349,yes,GB,,,,,,,1,1,0,0,0,0,3,,,,,,
+B.Favre,00-0005106,no,MIN,,,,,,,28,17,0,4,0,0,244,1,0,0,0,0,0

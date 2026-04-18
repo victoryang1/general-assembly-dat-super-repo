@@ -1,0 +1,4 @@
+name,id,home,team,pos,fumbles_lost,fumbles_rcv,fumbles_tot,fumbles_trcv,fumbles_yds,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+M.Cassel,00-0023662,yes,KC,QB,0,0,1,0,-2,34,24,0,3,0,0,314,3,16,0,0,0,0,20
+B.Croyle,00-0024300,yes,KC,,,,,,,2,1,1,0,0,0,-2,,,,,,,
+K.Collins,00-0003292,no,TEN,,0,0,1,0,-5,37,14,2,2,0,0,235,2,0,0,0,0,0,-1

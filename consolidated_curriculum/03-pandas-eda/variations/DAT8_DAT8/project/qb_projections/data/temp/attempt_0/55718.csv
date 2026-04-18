@@ -1,0 +1,4 @@
+name,id,home,team,pos,fumbles_lost,fumbles_rcv,fumbles_tot,fumbles_trcv,fumbles_yds,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,punting_avg,punting_i20,punting_lng,punting_pts,punting_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+B.Fields,00-0025612,yes,MIA,,,,,,,1,0,0,0,0,0,0,54,1,63,1,63,,,,,,,
+R.Tannehill,00-0029701,yes,MIA,QB,1,0,1,0,0,28,22,0,2,1,1,220,,,,,,8,30,0,0,0,0,52
+C.Henne,00-0026197,no,JAC,QB,0,2,2,2,0,34,18,0,0,0,0,221,,,,,,3,8,0,0,0,0,16

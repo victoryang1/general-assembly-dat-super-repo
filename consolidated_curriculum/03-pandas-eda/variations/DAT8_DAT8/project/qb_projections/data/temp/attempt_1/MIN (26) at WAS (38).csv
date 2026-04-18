@@ -1,0 +1,3 @@
+name,id,home,team,pos,fumbles_lost,fumbles_rcv,fumbles_tot,fumbles_trcv,fumbles_yds,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+R.Griffin,00-0029665,yes,WAS,QB,,,,,,22,17,1,1,0,0,182,13,76,76,2,0,0,138
+C.Ponder,00-0027950,no,MIN,,1,0,1,0,0,52,35,2,2,2,1,352,4,7,0,0,0,0,13

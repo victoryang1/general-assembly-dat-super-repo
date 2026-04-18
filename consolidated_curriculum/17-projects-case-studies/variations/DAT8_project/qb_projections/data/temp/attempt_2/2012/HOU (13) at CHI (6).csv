@@ -1,0 +1,4 @@
+name,id,home,team,pos,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+J.Campbell,00-0023460,yes,CHI,,19,11,0,0,0,0,94,1,5,0,0,0,0,5
+J.Cutler,00-0024226,yes,CHI,QB,14,7,2,0,0,0,40,3,19,0,0,0,0,37
+M.Schaub,00-0022787,no,HOU,QB,26,14,2,1,0,0,95,2,-1,0,0,0,0,-2

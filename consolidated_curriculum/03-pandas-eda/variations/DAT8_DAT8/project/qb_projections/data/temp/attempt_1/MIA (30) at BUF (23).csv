@@ -1,0 +1,3 @@
+name,id,home,team,pos,fumbles_lost,fumbles_rcv,fumbles_tot,fumbles_trcv,fumbles_yds,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+R.Fitzpatrick,00-0023682,yes,BUF,QB,,,,,,47,31,3,2,1,0,316,2,5,0,0,0,0,7
+M.Moore,00-0025708,no,MIA,QB,1,0,1,0,0,20,10,0,2,0,0,217,,,,,,,

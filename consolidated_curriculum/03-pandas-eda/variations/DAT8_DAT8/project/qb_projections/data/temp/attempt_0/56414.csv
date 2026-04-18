@@ -1,0 +1,3 @@
+name,id,home,team,pos,fumbles_lost,fumbles_rcv,fumbles_tot,fumbles_trcv,fumbles_yds,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+C.Daniel,00-0026544,yes,KC,QB,,,,,,27,16,0,0,0,0,157,3,9,0,0,0,0,16
+P.Rivers,00-0022942,no,SD,QB,1,0,1,0,0,34,20,2,0,0,0,291,1,2,0,0,0,0,2

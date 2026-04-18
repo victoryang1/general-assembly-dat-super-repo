@@ -1,0 +1,4 @@
+name,id,home,team,pos,fumbles_lost,fumbles_rcv,fumbles_tot,fumbles_trcv,fumbles_yds,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,receiving_lng,receiving_rec,receiving_tds,receiving_twopta,receiving_twoptm,receiving_yds,rushing_att,rushing_lng,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+R.Wayne,00-0020498,yes,IND,,,,,,,1,0,1,0,0,0,0,15,8,0,0,0,64,,,,,,
+P.Manning,00-0010346,yes,IND,QB,0,0,1,0,0,50,34,1,1,0,0,318,,,,,,,1,2,0,0,0,2
+M.Schaub,00-0022787,no,HOU,QB,,,,,,43,32,2,1,0,0,311,,,,,,,3,19,0,0,0,21

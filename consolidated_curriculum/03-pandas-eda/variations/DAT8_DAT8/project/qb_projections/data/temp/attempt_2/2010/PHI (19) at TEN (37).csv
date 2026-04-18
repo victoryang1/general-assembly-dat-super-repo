@@ -1,0 +1,3 @@
+name,id,home,team,pos,fumbles_lost,fumbles_rcv,fumbles_tot,fumbles_trcv,fumbles_yds,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+K.Collins,00-0003292,yes,TEN,,1,0,1,0,0,31,17,2,3,0,0,276,,,,,,,
+K.Kolb,00-0025423,no,PHI,,1,0,1,0,0,48,26,2,1,0,0,231,3,15,0,0,0,0,18

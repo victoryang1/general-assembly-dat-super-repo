@@ -1,0 +1,4 @@
+name,id,home,team,pos,fumbles_lost,fumbles_rcv,fumbles_tot,fumbles_trcv,fumbles_yds,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+D.Anderson,00-0023645,yes,CLE,QB,0,2,2,2,-2,29,12,1,0,0,0,99,2,3,0,0,0,3
+A.Rodgers,00-0023459,no,GB,QB,,,,,,20,15,0,3,0,0,246,4,19,0,0,0,23
+M.Flynn,00-0026349,no,GB,,,,,,,2,1,0,0,0,0,12,,,,,,

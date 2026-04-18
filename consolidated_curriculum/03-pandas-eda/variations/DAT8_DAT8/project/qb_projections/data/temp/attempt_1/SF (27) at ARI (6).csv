@@ -1,0 +1,3 @@
+name,id,home,team,pos,fumbles_lost,fumbles_rcv,fumbles_tot,fumbles_trcv,fumbles_yds,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+D.Anderson,00-0023645,yes,ARI,QB,1,0,1,0,0,35,16,1,0,0,0,196,1,0,0,0,0,0,0
+T.Smith,00-0025561,no,SF,,0,0,1,0,-1,23,11,1,1,0,0,129,3,7,0,0,0,0,6

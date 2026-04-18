@@ -1,0 +1,4 @@
+name,id,home,team,pos,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+P.Rivers,00-0022942,yes,SD,QB,23,17,0,1,0,0,270,,,,,,,
+J.Flacco,00-0026158,no,BAL,QB,34,23,2,2,0,0,226,1,12,0,0,0,0,12
+T.Taylor,00-0028118,no,BAL,QB,1,1,0,0,0,0,18,,,,,,,

@@ -1,0 +1,4 @@
+name,id,home,team,pos,fumbles_lost,fumbles_rcv,fumbles_tot,fumbles_trcv,fumbles_yds,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+J.McCown,00-0021206,yes,CHI,QB,,,,,,2,1,1,0,0,0,12,,,,,,,
+C.Hanie,00-0025970,yes,CHI,,,,,,,23,10,3,1,0,0,111,5,12,0,0,0,0,34
+T.Jackson,00-0024279,no,SEA,QB,1,0,1,0,0,31,19,0,1,0,0,227,3,2,0,0,0,0,-2

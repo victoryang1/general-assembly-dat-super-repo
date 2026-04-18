@@ -1,0 +1,4 @@
+name,id,home,team,pos,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+K.Orton,00-0023541,yes,BUF,,32,24,0,2,0,0,230,1,10,0,0,0,0,10
+G.Smith,00-0030565,no,NYJ,QB,12,10,0,0,0,0,89,2,4,0,0,0,0,4
+M.Vick,00-0020245,no,NYJ,QB,19,7,1,0,0,0,76,2,3,0,0,0,0,4

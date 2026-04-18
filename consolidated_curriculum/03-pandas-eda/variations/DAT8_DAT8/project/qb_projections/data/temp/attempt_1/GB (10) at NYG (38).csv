@@ -1,0 +1,4 @@
+name,id,home,team,pos,fumbles_lost,fumbles_rcv,fumbles_tot,fumbles_trcv,fumbles_yds,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+E.Manning,00-0022803,yes,NYG,QB,,,,,,30,16,0,3,0,0,249,2,13,0,0,0,0,12
+A.Rodgers,00-0023459,no,GB,QB,1,0,1,0,0,25,14,1,1,0,0,219,3,11,0,0,0,0,22
+G.Harrell,00-0027602,no,GB,,,,,,,2,1,0,0,0,0,11,,,,,,,

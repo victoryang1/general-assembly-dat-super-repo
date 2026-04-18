@@ -1,0 +1,3 @@
+name,id,home,team,pos,fumbles_lost,fumbles_rcv,fumbles_tot,fumbles_trcv,fumbles_yds,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+M.Flynn,00-0026349,yes,GB,,1,0,1,0,0,32,24,1,1,1,0,258,6,17,0,0,0,0,28
+M.Ryan,00-0026143,no,ATL,QB,1,0,1,0,0,35,20,1,2,0,0,206,,,,,,,

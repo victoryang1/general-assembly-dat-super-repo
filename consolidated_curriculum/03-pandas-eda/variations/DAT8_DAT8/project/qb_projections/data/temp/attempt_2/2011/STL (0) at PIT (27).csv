@@ -1,0 +1,3 @@
+name,id,home,team,pos,fumbles_lost,fumbles_rcv,fumbles_tot,fumbles_trcv,fumbles_yds,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+C.Batch,00-0000865,yes,PIT,,,,,,,22,15,1,0,0,0,208,,,,,,,
+K.Clemens,00-0024264,no,STL,QB,0,1,1,1,0,24,9,0,0,0,0,91,2,9,0,0,0,0,10

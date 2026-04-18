@@ -1,0 +1,4 @@
+name,id,home,team,pos,fumbles_lost,fumbles_rcv,fumbles_tot,fumbles_trcv,fumbles_yds,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,punting_avg,punting_i20,punting_lng,punting_pts,punting_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+E.Manning,00-0022803,yes,NYG,QB,,,,,,28,21,0,2,0,0,234,,,,,,1,-1,0,0,0,0,-1
+R.Fitzpatrick,00-0023682,no,HOU,QB,0,1,1,1,0,34,20,3,1,0,0,289,,,,,,7,8,1,1,0,0,34
+S.Lechler,00-0019714,no,HOU,P,,,,,,1,1,0,0,0,0,10,35,1,64,4,205,,,,,,,

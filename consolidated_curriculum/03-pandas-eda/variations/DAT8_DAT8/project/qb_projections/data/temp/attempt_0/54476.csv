@@ -1,0 +1,4 @@
+name,id,home,team,pos,fumbles_lost,fumbles_rcv,fumbles_tot,fumbles_trcv,fumbles_yds,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,receiving_lng,receiving_rec,receiving_tds,receiving_twopta,receiving_twoptm,receiving_yds,rushing_att,rushing_lng,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+M.Clayton,00-0022725,yes,TB,,,,,,,1,0,0,0,0,0,0,47,5,0,0,0,93,,,,,,
+B.Leftwich,00-0022177,yes,TB,,0,0,1,0,-3,41,25,0,1,0,0,276,,,,,,,3,2,0,0,0,3
+T.Romo,00-0021678,no,DAL,QB,,,,,,27,16,0,3,0,0,353,,,,,,,1,2,0,0,0,2

@@ -1,0 +1,4 @@
+name,id,home,team,pos,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,receiving_lng,receiving_lngtd,receiving_rec,receiving_tds,receiving_twopta,receiving_twoptm,receiving_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+B.Favre,00-0005106,yes,MIN,,47,36,2,2,0,0,446,,,,,,,,2,2,0,0,0,0,1
+D.Anderson,00-0023645,no,ARI,QB,26,15,0,1,0,0,179,,,,,,,,3,11,0,0,0,0,16
+S.Breaston,00-0025529,no,ARI,,1,1,0,0,0,0,17,16,0,3,0,0,0,28,,,,,,,

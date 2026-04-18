@@ -1,0 +1,4 @@
+name,id,home,team,pos,fumbles_lost,fumbles_rcv,fumbles_tot,fumbles_trcv,fumbles_yds,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+N.Foles,00-0029567,yes,PHI,QB,,,,,,34,21,2,2,0,0,248,2,4,0,0,0,0,5
+R.Nassib,00-0030586,no,NYG,QB,0,1,1,1,0,5,4,0,0,0,0,60,,,,,,,
+E.Manning,00-0022803,no,NYG,QB,0,0,1,0,0,23,13,0,0,0,0,151,2,2,0,0,0,0,3

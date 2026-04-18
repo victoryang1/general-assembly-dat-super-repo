@@ -1,0 +1,4 @@
+name,id,home,team,pos,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+P.Manning,00-0010346,yes,DEN,QB,26,22,0,4,0,0,318,1,-1,0,0,0,0,-1
+C.Kaepernick,00-0027974,no,SF,QB,39,24,1,1,0,0,263,3,7,0,0,0,0,18
+B.Gabbert,00-0027948,no,SF,QB,7,3,0,1,0,0,38,1,5,0,0,0,0,5

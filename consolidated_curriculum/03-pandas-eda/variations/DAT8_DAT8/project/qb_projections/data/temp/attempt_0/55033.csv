@@ -1,0 +1,5 @@
+name,id,home,team,pos,kickret_avg,kickret_lng,kickret_lngtd,kickret_ret,kickret_tds,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+J.Johnson,00-0026300,yes,TB,,,,,,,1,1,0,0,0,0,1,,,,,,,
+J.Freeman,00-0026993,yes,TB,,,,,,,32,21,0,1,0,0,251,5,14,0,0,0,0,29
+D.Stanton,00-0025430,no,DET,QB,,,,,,37,23,0,1,0,0,252,2,15,0,0,0,0,24
+S.Logan,00-0026491,no,DET,,19,29,0,4,0,1,0,0,0,0,0,0,4,13,0,0,0,0,11

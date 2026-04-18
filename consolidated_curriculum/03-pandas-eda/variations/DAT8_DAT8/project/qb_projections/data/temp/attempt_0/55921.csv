@@ -1,0 +1,4 @@
+name,id,home,team,pos,fumbles_lost,fumbles_rcv,fumbles_tot,fumbles_trcv,fumbles_yds,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,puntret_avg,puntret_lng,puntret_lngtd,puntret_ret,puntret_tds,receiving_lng,receiving_lngtd,receiving_rec,receiving_tds,receiving_twopta,receiving_twoptm,receiving_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+G.Smith,00-0030565,yes,NYJ,QB,0,1,1,1,0,34,19,2,0,0,0,201,,,,,,,,,,,,,3,9,0,0,0,0,8
+A.Brown,00-0027793,no,PIT,WR,,,,,,1,1,0,0,0,0,15,5,11,0,2,0,16,0,9,0,0,0,86,,,,,,,
+B.Roethlisberger,00-0022924,no,PIT,QB,,,,,,30,23,0,1,0,0,264,,,,,,,,,,,,,2,10,0,0,0,0,11

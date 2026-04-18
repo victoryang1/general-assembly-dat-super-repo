@@ -1,0 +1,4 @@
+name,id,home,team,pos,passing_att,passing_cmp,passing_ints,passing_tds,passing_twopta,passing_twoptm,passing_yds,rushing_att,rushing_lng,rushing_lngtd,rushing_tds,rushing_twopta,rushing_twoptm,rushing_yds
+M.Cassel,00-0023662,yes,KC,QB,33,11,2,0,0,0,115,,,,,,,
+T.Palko,00-0024812,yes,KC,,3,2,0,0,0,0,27,1,6,0,0,0,0,6
+J.Campbell,00-0023460,no,OAK,,25,15,0,1,0,0,155,4,21,0,0,0,0,33
