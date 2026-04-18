@@ -11,7 +11,7 @@
     "10-clustering": "DAT-23-NYC-1/DAT-23-NYC-1/15_clustering",
     "11-dimensionality-reduction": "DAT-23-NYC-1/DAT-23-NYC-1/16_dim_reduction",
     "12-recommender-systems": "DAT-23-NYC-1/DAT-23-NYC-1/17_recommendations",
-    "13-time-series": "DAT-BOS-16/DAT-BOS-16/lessons/lesson-16/assets/dataset",
+    "13-time-series": "DAT-BOS-16/DAT-BOS-16/lessons/lesson-16",
     "14-neural-networks": "DAT-BOS-16/DAT-BOS-16/lessons/lesson-19-flex",
     "15-big-data-cloud": "DAT-23-NYC-1/DAT-23-NYC-1/22_mapreduce",
     "16-web-scraping": "DS-DC-BAH1/DS-DC-BAH1/getting-data-APIs",
